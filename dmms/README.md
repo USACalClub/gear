@@ -31,14 +31,14 @@ Notes:
 
 | Make | Model | Range scheme | A/D counts | Max value |
 |---|---|---|---|---|
-| HP | 3456A | 1x, 10x... | 1,200,000 | 1.199999 |
-| HP | 3457A | 3x, 30x... | | 3.030000 |
-| HP/Agilent | 34401A | 1x, 10x... | 1,200,000 | |
-| Keithley | 192 | 2x, 20x... | 2,000,000 | 1.999999 |
-| Keithley | 193 | 2x, 20x... | 2,200,000 | 2.199999 |
-| Keithley | 196 | 3x, 30x... | 3,030,000 | |
-| Keithley | 2000 | 1x, 10x... | | "120% overrange" |
-| Keithley | 2015 | 1x, 10x... | | "120% overrange" |
+| HP | 3456A | 1x, 10x, ... | 1,200,000 | 1.199999 |
+| HP | 3457A | 3x, 30x, ... | | 3.030000 |
+| HP/Agilent | 34401A | 1x, 10x, ... | 1,200,000 | |
+| Keithley | 192 | 2x, 20x, ... | 2,000,000 | 1.999999 |
+| Keithley | 193 | 2x, 20x, ... | 2,200,000 | 2.199999 |
+| Keithley | 196 | 3x, 30x, ... | 3,030,000 | |
+| Keithley | 2000 | 1x, 10x, ... | | "120% overrange" |
+| Keithley | 2015 | 1x, 10x, ... | | "120% overrange" |
 | Fluke | 8502A | | | |
 | Fluke | 8505A | | | |
 | Fluke | 8520A | | | |
