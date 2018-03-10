@@ -2,6 +2,21 @@
 
 Information about digital multimeters, especially used models of interest to volt-nuts.
 
+## Models with 7.5-digit resolution
+
+### General info:
+
+| Make | Model | Introduced | Comms | Image |
+|---|---|---|---|---|
+| Datron | 1071 | | | ![](media/datron-1071.jpg) |
+
+### Range info:
+
+| Make | Model | Range scheme | A/D counts | Max value |
+|---|---|---|---|---|
+| Datron | 1071 | 2x, 20x, ... | 19,999,999 | |
+
+
 ## Models with 6.5-digit resolution
 
 ### General info:
@@ -21,6 +36,7 @@ Information about digital multimeters, especially used models of interest to vol
 | Fluke | 8502A | | GPIB (opt.) | ![](media/fluke-8502a.jpg) |
 | Fluke | 8505A | | GPIB (opt.) | ![](media/fluke-8505a.jpg) |
 | Fluke | 8520A | | GPIB | ![](media/fluke-8520a.jpg) |
+| Datron | 1061A | | GPIB | ![](media/datron-1061a.jpg) |
 | Datron | 1062 | | GPIB | ![](media/datron-1062.jpg) |
 | Prema | 6001 | | | ![](media/prema-6001.jpg) |
 
@@ -42,6 +58,7 @@ Notes:
 | Fluke | 8502A | | | |
 | Fluke | 8505A | | | |
 | Fluke | 8520A | | | |
+| Datron | 1061A | | 1,999,999 | |
 | Datron | 1062 | | | |
 | Prema | 6001 | | | |
 
@@ -147,6 +164,13 @@ Notes:
 |---|---|---|---|---|
 | Keithley | 195A | 1984? | GPIB | ![](media/keithley-195a.jpg) |
 | Keithley | 199<sup>*</sup> | 1988? | GPIB | ![](media/keithley-199.jpg) |
+| Datron | 1061 | | | ![](media/datron-1061.jpg) |
 
 Notes:
 - The Keithley 199 is a scanner.
+
+### Range info:
+
+| Make | Model | Range scheme | A/D counts | Max value |
+|---|---|---|---|---|
+| Datron | 1061 | 2x, 20x, ... | 199,999 | |
