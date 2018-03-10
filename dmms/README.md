@@ -68,23 +68,48 @@ Notes:
 Note:
 - Keithley 192 has no 0.2V range in 6.5-digit mode (best 6.5-digit resolution is 1uV in 2V range).
 
-### DC Volts calibration info:
+### Calibration info:
 
-| Make | Model | Cal methods | Arb. cal value? |
-|---|---|---|---|
-| HP | 3456A | pots | yes |
-| HP | 3457A | | |
-| HP/Agilent | 34401A | | |
-| Keithley | 193 | | |
-| Keithley | 196 | | |
-| Keithley | 199 | | |
-| Keithley | 2000 | | |
-| Keithley | 2015 | | |
-| Fluke | 8502A | | |
-| Fluke | 8505A | | |
-| Fluke | 8520A | | |
-| Datron | 1062 | | |
-| Prema | 6001 | | |
+| Make | Model | Cal methods |
+|---|---|---|
+| HP | 3456A | Trimpots |
+| HP | 3457A | Front-panel, GPIB |
+| HP/Agilent | 34401A | Front-panel, GPIB |
+| Keithley | 193 | |
+| Keithley | 196 | |
+| Keithley | 199 | |
+| Keithley | 2000 | |
+| Keithley | 2015 | |
+| Fluke | 8502A | |
+| Fluke | 8505A | |
+| Fluke | 8520A | |
+| Datron | 1062 | |
+| Prema | 6001 | |
+
+Notes:
+- The 34401A's calibration counts each range as a "calibration", so a full calibration will increase the count by 35.
+
+Ohms calibration info:
+
+| Make | Model | Valid cal. input range |
+|---|---|---|
+| HP | 3456A | (arbitrary) |
+| HP | 3457A | (See note<sup>*</sup>) |
+| HP/Agilent | 34401A | 0.9x to 1.1x |
+| Keithley | 193 | |
+| Keithley | 196 | |
+| Keithley | 199 | |
+| Keithley | 2000 | |
+| Keithley | 2015 | |
+| Fluke | 8502A | |
+| Fluke | 8505A | |
+| Fluke | 8520A | |
+| Datron | 1062 | |
+| Prema | 6001 | |
+
+Notes:
+- The 3457A allows entering the exact value of the calibration source, but I'm not sure of the allowed range of values.  The service manual lists the following "required equipment" for calibration:
+  - 30R (+/-0.2%), 300R (+/-0.02%), 3K (+/-0.003%), 30K (+/-0.001%), 300K (+/-0.001%), 3Meg (+/-0.002%), 30Meg (+/-0.009%)
 
 ### Additional resources:
 
