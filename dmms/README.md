@@ -14,6 +14,7 @@ Information about digital multimeters, especially used models of interest to vol
 | Keithley | 192 | 1982? | ? | ![](media/keithley-192.jpg) |
 | Keithley | 193 | 1985? | GPIB | ![](media/keithley-193.jpg) |
 | Keithley | 196 | 1986? | GPIB | ![](media/keithley-196.jpg) |
+| Keithley | 199 | 1986? | GPIB | ![](media/keithley-196.jpg) |
 | Keithley | 2000 | | GPIB, RS-232 | ![](media/keithley-2000.jpg) |
 | Keithley | 2015 | | GPIB, RS-232 | ![](media/keithley-2015.jpg) |
 | ~~Keithley~~ | ~~2100~~ | | | ![](media/keithley-2100.jpg) |
@@ -21,6 +22,7 @@ Information about digital multimeters, especially used models of interest to vol
 | Fluke | 8505A | | GPIB (opt.) | ![](media/fluke-8505a.jpg) |
 | Fluke | 8520A | | GPIB | ![](media/fluke-8520a.jpg) |
 | Datron | 1062 | | GPIB | ![](media/datron-1062.jpg) |
+| Prema | 6001 | | | ![](media/prema-6001.jpg) |
 
 Notes:
 - "The rebadged Keithley 2100 was quite terrible" [[1](https://www.eevblog.com/forum/chat/bench-multimeter-(another)/msg244830/#msg244830)]
@@ -35,13 +37,14 @@ Notes:
 | Keithley | 193 | 2x, 20x... | |
 | Keithley | 193 | 2x, 20x... | |
 | Keithley | 196 | 3x, 30x... | |
+| Keithley | 199 | 3x, 30x... | |
 | Keithley | 2000 | | |
 | Keithley | 2015 | | |
-| Keithley | 2100 | | |
 | Fluke | 8502A | | |
 | Fluke | 8505A | | |
 | Fluke | 8520A | | |
 | Datron | 1062 | | |
+| Prema | 6001 | | |
 
 ### DC Volts info:
 
@@ -53,13 +56,14 @@ Notes:
 | Keithley | 192 | 1uV (2V<sup>*</sup>) | |
 | Keithley | 193 | 100nV (200mV) | 200mV, 2V |
 | Keithley | 196 | 100nV (300mV) | 300mV, 3V |
+| Keithley | 199 |  |  |
 | Keithley | 2000 | | |
 | Keithley | 2015 | | |
-| Keithley | 2100 | | |
 | Fluke | 8502A | | |
 | Fluke | 8505A | | |
 | Fluke | 8520A | | |
 | Datron | 1062 | | |
+| Prema | 6001 | | |
 
 Note:
 - Keithley 192 has no 0.2V range in 6.5-digit mode (best 6.5-digit resolution is 1uV in 2V range).
@@ -73,13 +77,14 @@ Note:
 | HP/Agilent | 34401A | | |
 | Keithley | 193 | | |
 | Keithley | 196 | | |
+| Keithley | 199 | | |
 | Keithley | 2000 | | |
 | Keithley | 2015 | | |
-| Keithley | 2100 | | |
 | Fluke | 8502A | | |
 | Fluke | 8505A | | |
 | Fluke | 8520A | | |
 | Datron | 1062 | | |
+| Prema | 6001 | | |
 
 ### Additional resources:
 
@@ -98,10 +103,20 @@ Note:
 | HP/Agilent | 34401A | | |
 | Keithley | 193 | | |
 | Keithley | 196 | | |
+| Keithley | 199 | | |
 | Keithley | 2000 | | |
 | Keithley | 2015 | | |
-| Keithley | 2100 | | |
 | Fluke | 8502A | | |
 | Fluke | 8505A | | |
 | Fluke | 8520A | | |
 | Datron | 1062 | | |
+| Prema | 6001 | | |
+
+
+## Models with 5.5-digit resolution
+
+### General info:
+
+| Make | Model | Introduced | Comms | Image |
+|---|---|---|---|---|
+| Keithley | 199 | 1988? | GPIB | ![](media/keithley-199.jpg) |
