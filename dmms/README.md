@@ -14,7 +14,7 @@ Information about digital multimeters, especially used models of interest to vol
 | Keithley | 192 | 1982? | ? | ![](media/keithley-192.jpg) |
 | Keithley | 193 | 1985? | GPIB | ![](media/keithley-193.jpg) |
 | Keithley | 196 | 1986? | GPIB | ![](media/keithley-196.jpg) |
-| Keithley | 199 | 1986? | GPIB | ![](media/keithley-196.jpg) |
+| Keithley | 199 | 1986? | GPIB | ![](media/keithley-199.jpg) |
 | Keithley | 2000 | | GPIB, RS-232 | ![](media/keithley-2000.jpg) |
 | Keithley | 2015 | | GPIB, RS-232 | ![](media/keithley-2015.jpg) |
 | ~~Keithley~~ | ~~2100~~ | | | ![](media/keithley-2100.jpg) |
