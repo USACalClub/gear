@@ -9,12 +9,14 @@ Information about digital multimeters, especially used models of interest to vol
 | Make | Model | Introduced | Comms | Image |
 |---|---|---|---|---|
 | Datron | 1071 | | | ![](media/datron-1071.jpg) |
+| Datron | 1081 | | | ![](media/datron-1081.jpg) |
 
 ### Range info:
 
 | Make | Model | Range scheme | A/D counts | Max value |
 |---|---|---|---|---|
 | Datron | 1071 | 2x, 20x, ... | 19,999,999 | |
+| Datron | 1081 | 2x, 20x, ... | 19,999,999 | |
 
 
 ## Models with 6.5-digit resolution
@@ -38,6 +40,7 @@ Information about digital multimeters, especially used models of interest to vol
 | Fluke | 8520A | | GPIB | ![](media/fluke-8520a.jpg) |
 | Datron | 1061A | | GPIB | ![](media/datron-1061a.jpg) |
 | Datron | 1062 | | GPIB | ![](media/datron-1062.jpg) |
+| Datron | 1065A | | | ![](media/datron-1065a.jpg) |
 | Prema | 6001 | | | ![](media/prema-6001.jpg) |
 
 Notes:
@@ -59,7 +62,8 @@ Notes:
 | Fluke | 8505A | | | |
 | Fluke | 8520A | | | |
 | Datron | 1061A | | 1,999,999 | |
-| Datron | 1062 | | | |
+| Datron | 1062 | | 1,999,999 | |
+| Datron | 1065A | | 1,999,999 | |
 | Prema | 6001 | | | |
 
 ### DC Volts info:
@@ -165,6 +169,7 @@ Notes:
 | Keithley | 195A | 1984? | GPIB | ![](media/keithley-195a.jpg) |
 | Keithley | 199<sup>*</sup> | 1988? | GPIB | ![](media/keithley-199.jpg) |
 | Datron | 1061 | | | ![](media/datron-1061.jpg) |
+| Datron | 1065 | | | ![](media/datron-1065.jpg) |
 
 Notes:
 - The Keithley 199 is a scanner.
@@ -174,3 +179,4 @@ Notes:
 | Make | Model | Range scheme | A/D counts | Max value |
 |---|---|---|---|---|
 | Datron | 1061 | 2x, 20x, ... | 199,999 | |
+| Datron | 1065 | 2x, 20x, ... | 199,999 | |
