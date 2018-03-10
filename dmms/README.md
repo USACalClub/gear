@@ -9,6 +9,7 @@ Information about digital multimeters, especially used models of interest to vol
 | Make | Model | Introduced | Comms | Image |
 |---|---|---|---|---|
 | Datron | 1071 | | | ![](media/datron-1071.jpg) |
+| Datron | 1072 | | | ![](media/datron-1072.jpg) |
 | Datron | 1081 | | | ![](media/datron-1081.jpg) |
 
 ### Range info:
