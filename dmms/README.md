@@ -11,13 +11,16 @@ Information about digital multimeters, especially used models of interest to vol
 | Datron | 1071 | | | ![](media/datron-1071.jpg) |
 | Datron | 1072 | | | ![](media/datron-1072.jpg) |
 | Datron | 1081 | | | ![](media/datron-1081.jpg) |
+| Datron | 1082 | | | ![](media/datron-1082.jpg) |
 
 ### Range info:
 
 | Make | Model | Range scheme | A/D counts | Max value |
 |---|---|---|---|---|
 | Datron | 1071 | 2x, 20x, ... | 19,999,999 | |
+| Datron | 1072 | | | |
 | Datron | 1081 | 2x, 20x, ... | 19,999,999 | |
+| Datron | 1082 | 2x, 20x, ... | 19,999,999 | |
 
 
 ## Models with 6.5-digit resolution
@@ -141,24 +144,6 @@ Notes:
 - Keithley 199
   - [Re-engineered digital board](https://www.eevblog.com/forum/repair/keithley-199-digital-board-replacement/)
   - [Replacing 1N4579 ref. zener with LM399](https://www.eevblog.com/forum/chat/bench-multimeter-(another)/msg265846/#msg265846)
-
-### Template:
-
-| Make | Model | A | B |
-|---|---|---|---|
-| HP | 3456A | | |
-| HP | 3457A | | |
-| HP/Agilent | 34401A | | |
-| Keithley | 192 | | |
-| Keithley | 193 | | |
-| Keithley | 196 | | |
-| Keithley | 2000 | | |
-| Keithley | 2015 | | |
-| Fluke | 8502A | | |
-| Fluke | 8505A | | |
-| Fluke | 8520A | | |
-| Datron | 1062 | | |
-| Prema | 6001 | | |
 
 
 ## Models with 5.5-digit resolution
