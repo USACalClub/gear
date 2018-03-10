@@ -29,23 +29,21 @@ Notes:
 
 ### Range info:
 
-| Make | Model | Range scheme | Max value |
-|---|---|---|---|
-| HP | 3456A | 1x, 10x... | 1.1999x |
-| HP | 3457A | 3x, 30x... | 3.0300x |
-| HP/Agilent | 34401A | 1x, 10x... | |
-| Keithley | 192 | 2x, 20x... | |
-| Keithley | 193 | 2x, 20x... | |
-| Keithley | 193 | 2x, 20x... | |
-| Keithley | 196 | 3x, 30x... | |
-| Keithley | 199 | 3x, 30x... | |
-| Keithley | 2000 | | |
-| Keithley | 2015 | | |
-| Fluke | 8502A | | |
-| Fluke | 8505A | | |
-| Fluke | 8520A | | |
-| Datron | 1062 | | |
-| Prema | 6001 | | |
+| Make | Model | Range scheme | A/D counts | Max value |
+|---|---|---|---|---|
+| HP | 3456A | 1x, 10x... | 1,200,000 | 1.199999 |
+| HP | 3457A | 3x, 30x... | 3,030,001 | 3.030000 |
+| HP/Agilent | 34401A | 1x, 10x... | | |
+| Keithley | 192 | 2x, 20x... | 2,000,000 | 1.999999 |
+| Keithley | 193 | 2x, 20x... | 2,200,000 | 2.199999 |
+| Keithley | 196 | 3x, 30x... | 3,030,000 | 3.029999 |
+| Keithley | 2000 | | | |
+| Keithley | 2015 | | | |
+| Fluke | 8502A | | | |
+| Fluke | 8505A | | | |
+| Fluke | 8520A | | | |
+| Datron | 1062 | | | |
+| Prema | 6001 | | | |
 
 ### DC Volts info:
 
@@ -56,8 +54,7 @@ Notes:
 | HP/Agilent | 34401A | | |
 | Keithley | 192 | 1uV (2V<sup>*</sup>) | 200mV, 2V, 20V (>1G) |
 | Keithley | 193 | 100nV (200mV) | 200mV, 2V |
-| Keithley | 196 | 100nV (300mV) | 300mV, 3V |
-| Keithley | 199 |  |  |
+| Keithley | 196 | 100nV (300mV) | 300mV, 3V (>1G) |
 | Keithley | 2000 | | |
 | Keithley | 2015 | | |
 | Fluke | 8502A | | |
@@ -79,7 +76,6 @@ Note:
 | Keithley | 192 | Trimpots |
 | Keithley | 193 | |
 | Keithley | 196 | |
-| Keithley | 199 | |
 | Keithley | 2000 | |
 | Keithley | 2015 | |
 | Fluke | 8502A | |
@@ -99,9 +95,8 @@ Ohms calibration info:
 | HP | 3457A | (See note<sup>*</sup>) |
 | HP/Agilent | 34401A | 0.9x to 1.1x |
 | Keithley | 192 | (must less than full-scale) |
-| Keithley | 193 | |
+| Keithley | 193 |  |
 | Keithley | 196 | |
-| Keithley | 199 | |
 | Keithley | 2000 | |
 | Keithley | 2015 | |
 | Fluke | 8502A | |
@@ -133,7 +128,6 @@ Notes:
 | Keithley | 192 | | |
 | Keithley | 193 | | |
 | Keithley | 196 | | |
-| Keithley | 199 | | |
 | Keithley | 2000 | | |
 | Keithley | 2015 | | |
 | Fluke | 8502A | | |
