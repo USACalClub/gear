@@ -2,35 +2,6 @@
 
 Information about digital multimeters, especially used models of interest to volt-nuts.
 
-## Models with 8.5-digit resolution
-
-### General info:
-
-| Make | Model | Introduced | Comms | Image |
-|---|---|---|---|---|
-| Datron | 1271 | | | ![](media/datron-1271.jpg) |
-| Datron | 1281 | | | ![](media/datron-1281.jpg) |
-
-## Models with 7.5-digit resolution
-
-### General info:
-
-| Make | Model | Introduced | Comms | Image |
-|---|---|---|---|---|
-| Datron | 1071 | | | ![](media/datron-1071.jpg) |
-| Datron | 1072 | | | ![](media/datron-1072.jpg) |
-| Datron | 1081 | | | ![](media/datron-1081.jpg) |
-| Datron | 1082 | | | ![](media/datron-1082.jpg) |
-
-### Range info:
-
-| Make | Model | Range scheme | A/D counts | Max value |
-|---|---|---|---|---|
-| Datron | 1071 | 2x, 20x, ... | 19,999,999 | |
-| Datron | 1072 | 2x, 20x, ... | 19,999,999 | |
-| Datron | 1081 | 2x, 20x, ... | 19,999,999 | |
-| Datron | 1082 | 2x, 20x, ... | 19,999,999 | |
-
 
 ## Models with 6.5-digit resolution
 
@@ -136,7 +107,7 @@ Ohms calibration info:
 | Keithley | 193 | (See note<sup>*</sup>) |
 | Keithley | 196 | (See note<sup>*</sup>) |
 | Keithley | 2000 | 0.9x to 1.1x |
-| Keithley | 2015 | |
+| Keithley | 2015 | 0.9x to 1.1x |
 | Fluke | 8502A | |
 | Fluke | 8505A | |
 | Fluke | 8520A | |
@@ -159,6 +130,7 @@ Notes:
   - [Replacing 1N4579 ref. zener with LM399](https://www.eevblog.com/forum/chat/bench-multimeter-(another)/msg265846/#msg265846)
 
 
+
 ## Models with 5.5-digit resolution
 
 ### General info:
@@ -179,3 +151,36 @@ Notes:
 |---|---|---|---|---|
 | Datron | 1061 | 2x, 20x, ... | 199,999 | |
 | Datron | 1065 | 2x, 20x, ... | 199,999 | |
+
+
+
+## Models with 7.5-digit resolution
+
+### General info:
+
+| Make | Model | Introduced | Comms | Image |
+|---|---|---|---|---|
+| Datron | 1071 | | | ![](media/datron-1071.jpg) |
+| Datron | 1072 | | | ![](media/datron-1072.jpg) |
+| Datron | 1081 | | | ![](media/datron-1081.jpg) |
+| Datron | 1082 | | | ![](media/datron-1082.jpg) |
+
+### Range info:
+
+| Make | Model | Range scheme | A/D counts | Max value |
+|---|---|---|---|---|
+| Datron | 1071 | 2x, 20x, ... | 19,999,999 | |
+| Datron | 1072 | 2x, 20x, ... | 19,999,999 | |
+| Datron | 1081 | 2x, 20x, ... | 19,999,999 | |
+| Datron | 1082 | 2x, 20x, ... | 19,999,999 | |
+
+
+## Models with 8.5-digit resolution
+
+### General info:
+
+| Make | Model | Introduced | Comms | Image |
+|---|---|---|---|---|
+| Datron | 1271 | | | ![](media/datron-1271.jpg) |
+| Datron | 1281 | | | ![](media/datron-1281.jpg) |
+
