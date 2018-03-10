@@ -18,7 +18,7 @@ Information about digital multimeters, especially used models of interest to vol
 | Make | Model | Range scheme | A/D counts | Max value |
 |---|---|---|---|---|
 | Datron | 1071 | 2x, 20x, ... | 19,999,999 | |
-| Datron | 1072 | | | |
+| Datron | 1072 | 2x, 20x, ... | 19,999,999 | |
 | Datron | 1081 | 2x, 20x, ... | 19,999,999 | |
 | Datron | 1082 | 2x, 20x, ... | 19,999,999 | |
 
