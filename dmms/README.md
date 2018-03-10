@@ -120,4 +120,7 @@ Note:
 | Make | Model | Introduced | Comms | Image |
 |---|---|---|---|---|
 | Keithley | 195A | 1984? | GPIB | ![](media/keithley-195a.jpg) |
-| Keithley | 199 (scanner) | 1988? | GPIB | ![](media/keithley-199.jpg) |
+| Keithley | 199<sup>*</sup> | 1988? | GPIB | ![](media/keithley-199.jpg) |
+
+Notes:
+- The Keithley 199 is a scanner.
