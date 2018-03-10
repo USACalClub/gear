@@ -2,6 +2,15 @@
 
 Information about digital multimeters, especially used models of interest to volt-nuts.
 
+## Models with 8.5-digit resolution
+
+### General info:
+
+| Make | Model | Introduced | Comms | Image |
+|---|---|---|---|---|
+| Datron | 1271 | | | ![](media/datron-1271.jpg) |
+| Datron | 1281 | | | ![](media/datron-1281.jpg) |
+
 ## Models with 7.5-digit resolution
 
 ### General info:
