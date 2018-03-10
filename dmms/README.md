@@ -6,4 +6,4 @@ Information about digital multimeters, especially used models of interest to vol
 
 | Image | Make | Model |
 |---|---|---|
-||HP|34401A|
+| ![media/hp-34401a.jpg] | HP/Agilent | 34401A |
