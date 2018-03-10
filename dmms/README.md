@@ -77,7 +77,7 @@ Note:
 | Keithley | 193 | Front-panel, GPIB |
 | Keithley | 196 | Front-panel, GPIB |
 | Keithley | 2000 | Front-panel, GPIB |
-| Keithley | 2015 | |
+| Keithley | 2015 | Front-panel, GPIB |
 | Fluke | 8502A | |
 | Fluke | 8505A | |
 | Fluke | 8520A | |
