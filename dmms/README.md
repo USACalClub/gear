@@ -119,5 +119,5 @@ Note:
 
 | Make | Model | Introduced | Comms | Image |
 |---|---|---|---|---|
-| Keithley | 195 |  | | ![](media/keithley-195.jpg) |
+| Keithley | 195A |  | | ![](media/keithley-195a.jpg) |
 | Keithley | 199 | 1988? | GPIB | ![](media/keithley-199.jpg) |
