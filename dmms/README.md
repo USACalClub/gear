@@ -36,7 +36,7 @@ Notes:
 | HP/Agilent | 34401A | 1x, 10x... | 1,200,000 | |
 | Keithley | 192 | 2x, 20x... | 2,000,000 | 1.999999 |
 | Keithley | 193 | 2x, 20x... | 2,200,000 | 2.199999 |
-| Keithley | 196 | 3x, 30x... | 3,030,000 | 3.029999 |
+| Keithley | 196 | 3x, 30x... | 3,030,000 | |
 | Keithley | 2000 | | | |
 | Keithley | 2015 | | | |
 | Fluke | 8502A | | | |
@@ -75,7 +75,7 @@ Note:
 | HP/Agilent | 34401A | Front-panel, GPIB |
 | Keithley | 192 | Trimpots |
 | Keithley | 193 | Front-panel, GPIB |
-| Keithley | 196 |  |
+| Keithley | 196 | Front-panel, GPIB |
 | Keithley | 2000 | |
 | Keithley | 2015 | |
 | Fluke | 8502A | |
@@ -96,7 +96,7 @@ Ohms calibration info:
 | HP/Agilent | 34401A | 0.9x to 1.1x |
 | Keithley | 192 | (must less than full-scale, e.g. 1.999999) |
 | Keithley | 193 | (See note<sup>*</sup>) |
-| Keithley | 196 | |
+| Keithley | 196 | (See note<sup>*</sup>) |
 | Keithley | 2000 | |
 | Keithley | 2015 | |
 | Fluke | 8502A | |
@@ -110,6 +110,7 @@ Notes:
   - 30R (+/-0.2%), 300R (+/-0.02%), 3K (+/-0.003%), 30K (+/-0.001%), 300K (+/-0.001%), 3Meg (+/-0.002%), 30Meg (+/-0.009%)
 - The Keithley 192 calls for 1.9x calibration values.  The manual also specifies "To prevent AD saturation, peak AC+DC value must be less than full scale on any range".
 - The Keithley 193 calls for 1.9x calibration values.  However, it allows entering arbitrary values.
+- The Keithley 196 calls for 1.9x calibration values.  However, it allows entering arbitrary values.
 
 ### Additional resources:
 
