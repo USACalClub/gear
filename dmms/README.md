@@ -46,6 +46,8 @@ Information about digital multimeters, especially used models of interest to vol
 | Datron | 1062 | | GPIB | ![](media/datron-1062.jpg) |
 | Datron | 1065A | | | ![](media/datron-1065a.jpg) |
 | Prema | 6001 | | | ![](media/prema-6001.jpg) |
+| Solartron | 7150 | | GPIB | ![](media/solartron-7150.jpg) |
+| Solartron | 7151 | | GPIB | ![](media/solartron-7151.jpg) |
 
 Notes:
 - "The rebadged Keithley 2100 was quite terrible" [[1](https://www.eevblog.com/forum/chat/bench-multimeter-(another)/msg244830/#msg244830)]
@@ -69,6 +71,7 @@ Notes:
 | Datron | 1062 | | 1,999,999 | |
 | Datron | 1065A | | 1,999,999 | |
 | Prema | 6001 | | | |
+| Solartron | 7150 | | 2,350,000 | |
 
 ### DC Volts info:
 
@@ -87,6 +90,7 @@ Notes:
 | Fluke | 8520A | | |
 | Datron | 1062 | | |
 | Prema | 6001 | | |
+| Solartron | 7150 |  | 200mV, 2V (>10G) |
 
 Note:
 - Keithley 192 has no 0.2V range in 6.5-digit mode (best 6.5-digit resolution is 1uV in 2V range).
