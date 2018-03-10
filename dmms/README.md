@@ -11,6 +11,7 @@ Information about digital multimeters, especially used models of interest to vol
 | Datron | 1071 | | | ![](media/datron-1071.jpg) |
 | Datron | 1072 | | | ![](media/datron-1072.jpg) |
 | Datron | 1081 | | | ![](media/datron-1081.jpg) |
+| Datron | 1082 | | | ![](media/datron-1082.jpg) |
 
 ### Range info:
 
@@ -19,6 +20,7 @@ Information about digital multimeters, especially used models of interest to vol
 | Datron | 1071 | 2x, 20x, ... | 19,999,999 | |
 | Datron | 1072 | | | |
 | Datron | 1081 | 2x, 20x, ... | 19,999,999 | |
+| Datron | 1082 | 2x, 20x, ... | 19,999,999 | |
 
 
 ## Models with 6.5-digit resolution
