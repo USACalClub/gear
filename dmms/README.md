@@ -16,11 +16,14 @@ Information about digital multimeters, especially used models of interest to vol
 | Keithley | 196 | 1986? | GPIB | ![](media/keithley-196.jpg) |
 | Keithley | 2000 | | GPIB, RS-232 | ![](media/keithley-2000.jpg) |
 | Keithley | 2015 | | GPIB, RS-232 | ![](media/keithley-2015.jpg) |
-| Keithley | 2100 | | USB | ![](media/keithley-2100.jpg) |
+| ~~Keithley~~ | ~~2100~~ | | | ![](media/keithley-2100.jpg) |
 | Fluke | 8502A | | GPIB (opt.) | ![](media/fluke-8502a.jpg) |
 | Fluke | 8505A | | GPIB (opt.) | ![](media/fluke-8505a.jpg) |
 | Fluke | 8520A | | GPIB | ![](media/fluke-8520a.jpg) |
 | Datron | 1062 | | GPIB | ![](media/datron-1062.jpg) |
+
+Notes:
+- "The rebadged Keithley 2100 was quite terrible" [[1](https://www.eevblog.com/forum/chat/bench-multimeter-(another)/msg244830/#msg244830)]
 
 ### Range info:
 
@@ -82,6 +85,9 @@ Note:
 
 - HP 3456A
   - [xDevs](https://xdevs.com/fix/hp3456a/)
+- Keithley 199
+  - [Re-engineered digital board](https://www.eevblog.com/forum/repair/keithley-199-digital-board-replacement/)
+  - [Replacing 1N4579 ref. zener with LM399](https://www.eevblog.com/forum/chat/bench-multimeter-(another)/msg265846/#msg265846)
 
 ### Template:
 
