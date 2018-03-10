@@ -1,3 +1,7 @@
-# DMMs
-Information about Digital Multimeters, especially used models of interest to volt-nuts.
+# gear
 
+Information about measurement equipment, especially used models of interest to volt-nuts.
+
+# DMMs
+
+See [dmms](dmms/README.md)
