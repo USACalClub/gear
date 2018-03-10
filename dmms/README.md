@@ -34,6 +34,7 @@ Notes:
 | HP | 3456A | 1x, 10x... | 1.1999x |
 | HP | 3457A | 3x, 30x... | 3.0300x |
 | HP/Agilent | 34401A | 1x, 10x... | |
+| Keithley | 192 | 2x, 20x... | |
 | Keithley | 193 | 2x, 20x... | |
 | Keithley | 193 | 2x, 20x... | |
 | Keithley | 196 | 3x, 30x... | |
@@ -48,12 +49,12 @@ Notes:
 
 ### DC Volts info:
 
-| Make | Model | Best res. (range) | Hi-Z |
+| Make | Model | Best res. (range) | Hi-Z (value) |
 |---|---|---|---|
 | HP | 3456A | 100nV (100mV) | 100mV, 1V, 10V |
 | HP | 3457A | 10nV (30mV) | 30mV, 300mV, 3V |
 | HP/Agilent | 34401A | | |
-| Keithley | 192 | 1uV (2V<sup>*</sup>) | |
+| Keithley | 192 | 1uV (2V<sup>*</sup>) | 200mV, 2V, 20V (>1G) |
 | Keithley | 193 | 100nV (200mV) | 200mV, 2V |
 | Keithley | 196 | 100nV (300mV) | 300mV, 3V |
 | Keithley | 199 |  |  |
@@ -75,6 +76,7 @@ Note:
 | HP | 3456A | Trimpots |
 | HP | 3457A | Front-panel, GPIB |
 | HP/Agilent | 34401A | Front-panel, GPIB |
+| Keithley | 192 | Trimpots |
 | Keithley | 193 | |
 | Keithley | 196 | |
 | Keithley | 199 | |
@@ -96,6 +98,7 @@ Ohms calibration info:
 | HP | 3456A | (arbitrary) |
 | HP | 3457A | (See note<sup>*</sup>) |
 | HP/Agilent | 34401A | 0.9x to 1.1x |
+| Keithley | 192 | (must less than full-scale) |
 | Keithley | 193 | |
 | Keithley | 196 | |
 | Keithley | 199 | |
@@ -110,6 +113,7 @@ Ohms calibration info:
 Notes:
 - The 3457A allows entering the exact value of the calibration source, but I'm not sure of the allowed range of values.  The service manual lists the following "required equipment" for calibration:
   - 30R (+/-0.2%), 300R (+/-0.02%), 3K (+/-0.003%), 30K (+/-0.001%), 300K (+/-0.001%), 3Meg (+/-0.002%), 30Meg (+/-0.009%)
+- The Keithley 192 calls for 1.9x calibration values.  The manual also specifies "To prevent AD saturation, peak AC+DC value must be less than full scale on any range".
 
 ### Additional resources:
 
@@ -126,6 +130,7 @@ Notes:
 | HP | 3456A | | |
 | HP | 3457A | | |
 | HP/Agilent | 34401A | | |
+| Keithley | 192 | | |
 | Keithley | 193 | | |
 | Keithley | 196 | | |
 | Keithley | 199 | | |
