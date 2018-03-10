@@ -37,8 +37,8 @@ Notes:
 | Keithley | 192 | 2x, 20x... | 2,000,000 | 1.999999 |
 | Keithley | 193 | 2x, 20x... | 2,200,000 | 2.199999 |
 | Keithley | 196 | 3x, 30x... | 3,030,000 | |
-| Keithley | 2000 | | | |
-| Keithley | 2015 | | | |
+| Keithley | 2000 | 1x, 10x... | | "120% overrange" |
+| Keithley | 2015 | 1x, 10x... | | "120% overrange" |
 | Fluke | 8502A | | | |
 | Fluke | 8505A | | | |
 | Fluke | 8520A | | | |
@@ -55,7 +55,7 @@ Notes:
 | Keithley | 192 | 1uV (2V<sup>*</sup>) | 200mV, 2V, 20V (>1G) |
 | Keithley | 193 | 100nV (200mV) | 200mV, 2V |
 | Keithley | 196 | 100nV (300mV) | 300mV, 3V (>1G) |
-| Keithley | 2000 | | |
+| Keithley | 2000 | 100nV (100mV) | 100mV, 1V, 10V (>10G) |
 | Keithley | 2015 | | |
 | Fluke | 8502A | | |
 | Fluke | 8505A | | |
@@ -76,7 +76,7 @@ Note:
 | Keithley | 192 | Trimpots |
 | Keithley | 193 | Front-panel, GPIB |
 | Keithley | 196 | Front-panel, GPIB |
-| Keithley | 2000 | |
+| Keithley | 2000 | Front-panel, GPIB |
 | Keithley | 2015 | |
 | Fluke | 8502A | |
 | Fluke | 8505A | |
@@ -97,7 +97,7 @@ Ohms calibration info:
 | Keithley | 192 | (must less than full-scale, e.g. 1.999999) |
 | Keithley | 193 | (See note<sup>*</sup>) |
 | Keithley | 196 | (See note<sup>*</sup>) |
-| Keithley | 2000 | |
+| Keithley | 2000 | 0.9x to 1.1x |
 | Keithley | 2015 | |
 | Fluke | 8502A | |
 | Fluke | 8505A | |
