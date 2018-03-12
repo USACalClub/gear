@@ -22,9 +22,9 @@ Information about digital multimeters, especially used models of interest to vol
 | Fluke | 8502A | | GPIB (opt.) | ![](media/fluke-8502a.jpg) |
 | Fluke | 8505A | | GPIB (opt.) | ![](media/fluke-8505a.jpg) |
 | Fluke | 8520A | | GPIB | ![](media/fluke-8520a.jpg) |
-| Fluke | 8845A | | | |
-| Fluke | 8846A | | | |
-| Tektronix | DMM4050 | | | |
+| Fluke | 8845A | | | ![](media/fluke-8845a.jpg) |
+| Fluke | 8846A | | | ![](media/fluke-8846a.jpg) |
+| Tektronix | DMM4050 | | | ![](media/tektronix-dmm4050.jpg) |
 | Datron | 1061A | | GPIB | ![](media/datron-1061a.jpg) |
 | Datron | 1062 | | GPIB | ![](media/datron-1062.jpg) |
 | Datron | 1065A | | | ![](media/datron-1065a.jpg) |
@@ -144,15 +144,15 @@ Notes:
 | HP | 3478A | | | |
 | Keithley | 195A | 1984? | GPIB | ![](media/keithley-195a.jpg) |
 | Keithley | 199<sup>*</sup> | 1988? | GPIB | ![](media/keithley-199.jpg) |
-| Fluke | 45 | | | |
-| Fluke | 8800A | | | |
-| Fluke | 8808A | | | |
-| Fluke | 8810A | | | |
-| Fluke | 8840A | | | |
-| Fluke | 8842A | | | |
+| Fluke | 45 | | | ![](media/fluke-45.jpg) |
+| Fluke | 8800A | | | ![](media/fluke-8800a.jpg) |
+| Fluke | 8808A | | | ![](media/fluke-8808a.jpg) |
+| Fluke | 8810A | | | ![](media/fluke-8810a.jpg) |
+| Fluke | 8840A | | | ![](media/fluke-8840a.jpg) |
+| Fluke | 8842A | | | ![](media/fluke-8842a.jpg) |
 | Datron | 1061 | | | ![](media/datron-1061.jpg) |
 | Datron | 1065 | | | ![](media/datron-1065.jpg) |
-| Rigol | DM3058E | | | |
+| Rigol | DM3058E | | | ![](media/rigol-dm3058e.jpg) |
 
 Notes:
 - The Keithley 199 is a scanner.
@@ -193,6 +193,7 @@ Notes:
 
 | Make | Model | Introduced | Comms | Image |
 |---|---|---|---|---|
+| HP/Agilent/Keysight | 3458a | | | ![](media/hp-3458a.jpg) |
 | Datron | 1271 | | | ![](media/datron-1271.jpg) |
 | Datron | 1281 | | | ![](media/datron-1281.jpg) |
 
