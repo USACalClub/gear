@@ -141,12 +141,17 @@ Notes:
 
 | Make | Model | Introduced | Comms | Image |
 |---|---|---|---|---|
+| HP | 3478A | | | |
 | Keithley | 195A | 1984? | GPIB | ![](media/keithley-195a.jpg) |
 | Keithley | 199<sup>*</sup> | 1988? | GPIB | ![](media/keithley-199.jpg) |
+| Fluke | 45 | | | |
+| Fluke | 8808A | | | |
+| Fluke | 8810A | | | |
 | Fluke | 8840A | | | |
 | Fluke | 8842A | | | |
 | Datron | 1061 | | | ![](media/datron-1061.jpg) |
 | Datron | 1065 | | | ![](media/datron-1065.jpg) |
+| Rigol | DM3058E | | | |
 
 Notes:
 - The Keithley 199 is a scanner.
