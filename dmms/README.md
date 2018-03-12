@@ -22,6 +22,9 @@ Information about digital multimeters, especially used models of interest to vol
 | Fluke | 8502A | | GPIB (opt.) | ![](media/fluke-8502a.jpg) |
 | Fluke | 8505A | | GPIB (opt.) | ![](media/fluke-8505a.jpg) |
 | Fluke | 8520A | | GPIB | ![](media/fluke-8520a.jpg) |
+| Fluke | 8845A | | | |
+| Fluke | 8846A | | | |
+| Tektronix | DMM4050 | | | |
 | Datron | 1061A | | GPIB | ![](media/datron-1061a.jpg) |
 | Datron | 1062 | | GPIB | ![](media/datron-1062.jpg) |
 | Datron | 1065A | | | ![](media/datron-1065a.jpg) |
@@ -31,6 +34,7 @@ Information about digital multimeters, especially used models of interest to vol
 
 Notes:
 - "The rebadged Keithley 2100 was quite terrible" [[1](https://www.eevblog.com/forum/chat/bench-multimeter-(another)/msg244830/#msg244830)]
+- The Tektronix DMM4050 is a re-badge of the Fluke 8846A [[1](http://www.eevblog.com/forum/metrology/the-ltflu-(aka-sza263)-reference-zener-diode-circuit/msg609636/#msg609636)]
 
 ### Range info:
 
