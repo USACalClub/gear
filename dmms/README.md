@@ -31,6 +31,7 @@ Information about digital multimeters, especially used models of interest to vol
 | Prema | 6001 | | | ![](media/prema-6001.jpg) |
 | Solartron | 7150 | | GPIB | ![](media/solartron-7150.jpg) |
 | Solartron | 7151 | | GPIB | ![](media/solartron-7151.jpg) |
+| Rigol | DM3068 | | | ![](media/rigol-dm3068.jpg) |
 
 Notes:
 - "The rebadged Keithley 2100 was quite terrible" [[1](https://www.eevblog.com/forum/chat/bench-multimeter-(another)/msg244830/#msg244830)]
