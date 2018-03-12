@@ -143,6 +143,8 @@ Notes:
 |---|---|---|---|---|
 | Keithley | 195A | 1984? | GPIB | ![](media/keithley-195a.jpg) |
 | Keithley | 199<sup>*</sup> | 1988? | GPIB | ![](media/keithley-199.jpg) |
+| Fluke | 8840A | | | |
+| Fluke | 8842A | | | |
 | Datron | 1061 | | | ![](media/datron-1061.jpg) |
 | Datron | 1065 | | | ![](media/datron-1065.jpg) |
 
