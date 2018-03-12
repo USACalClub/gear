@@ -145,6 +145,7 @@ Notes:
 | Keithley | 195A | 1984? | GPIB | ![](media/keithley-195a.jpg) |
 | Keithley | 199<sup>*</sup> | 1988? | GPIB | ![](media/keithley-199.jpg) |
 | Fluke | 45 | | | |
+| Fluke | 8800A | | | |
 | Fluke | 8808A | | | |
 | Fluke | 8810A | | | |
 | Fluke | 8840A | | | |
