@@ -9,6 +9,7 @@ Information about digital multimeters, especially used models of interest to vol
 
 | Make | Model | Introduced | Comms | Image |
 |---|---|---|---|---|
+| HP | 3455A | | | ![](media/hp-3455a.jpg) |
 | HP | 3456A | 1980? | GPIB | ![](media/hp-3456a.jpg) |
 | HP | 3457A | 1985? | GPIB | ![](media/hp-3457a.jpg) |
 | HP / Agilent / Keysight | 34401A | 1991? | GPIB, RS-232 | ![](media/hp-34401a.jpg) |
