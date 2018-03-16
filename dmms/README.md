@@ -42,7 +42,8 @@ Notes:
 
 | Make | Model | Range scheme | A/D counts | Max value |
 |---|---|---|---|---|
-| HP | 3456A | 1x, 10x, ... | 1,200,000 | 1.199999 |
+| HP | 3455A | 1x, 10x, ... | | 1.499999 |
+| HP | 3456A | 1x, 10x, ... | | 1.199999 |
 | HP | 3457A | 3x, 30x, ... | | 3.030000 |
 | HP/Agilent | 34401A | 1x, 10x, ... | 1,200,000 | |
 | Keithley | 192 | 2x, 20x, ... | 2,000,000 | 1.999999 |
@@ -63,6 +64,7 @@ Notes:
 
 | Make | Model | Best res. (range) | Hi-Z (value) |
 |---|---|---|---|
+| HP | 3456A | 1uV (1V) | 100mV, 1V, 10V |
 | HP | 3456A | 100nV (100mV) | 100mV, 1V, 10V |
 | HP | 3457A | 10nV (30mV) | 30mV, 300mV, 3V |
 | HP/Agilent | 34401A | 100nV (100mV) | 100mV, 1V, 10V (>10G) |
@@ -110,12 +112,12 @@ Ohms calibration info:
 | HP | 3455A | 1k, 10k, 100k, 1M, 10M | (arbitrary) |
 | HP | 3456A | 1k, 10k, 100k, 1M, 10M | (arbitrary) |
 | HP | 3457A | 30R, 300R, 3k, 30K, 300K, 3Meg, 30Meg | (See note<sup>*</sup>) |
-| HP/Agilent | 34401A | | 0.9x to 1.1x |
-| Keithley | 192 | | (must less than full-scale, e.g. 1.999999) |
-| Keithley | 193 | | (See note<sup>*</sup>) |
-| Keithley | 196 | | (See note<sup>*</sup>) |
-| Keithley | 2000 | | 0.9x to 1.1x |
-| Keithley | 2015 | | 0.9x to 1.1x |
+| HP/Agilent | 34401A | 100R, 1k, 10k, 100k, 1M, 10M, 100M | 0.9x to 1.1x |
+| Keithley | 192 | 190R, 1.9k, 19k, 190k, 1.9M, 10M | (must less than full-scale, e.g. 1.999999) |
+| Keithley | 193 | 200R, 2k, 20k, 200k, 2M, 20M, 200M | (allows entering arbitrary values) |
+| Keithley | 196 | 300R, 3k, 30k, 300k, 3M, 30M, 300M | (allows entering arbitrary values) |
+| Keithley | 2000 | 1k, 10k, 100k, 1M | 0.9x to 1.1x |
+| Keithley | 2015 | 1k, 10k, 100k, 1M | 0.9x to 1.1x |
 | Fluke | 8502A | | |
 | Fluke | 8505A | | |
 | Fluke | 8520A | | |
@@ -125,8 +127,6 @@ Ohms calibration info:
 Notes:
 - The 3457A allows entering the exact value of the calibration source, but I'm not sure of the allowed range of values.
 - The Keithley 192 calls for 1.9x calibration values.  The manual also specifies "To prevent AD saturation, peak AC+DC value must be less than full scale on any range".
-- The Keithley 193 calls for 1.9x calibration values.  However, it allows entering arbitrary values.
-- The Keithley 196 calls for 1.9x calibration values.  However, it allows entering arbitrary values.
 
 ### Additional resources:
 
