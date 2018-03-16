@@ -85,6 +85,7 @@ Note:
 
 | Make | Model | Cal methods |
 |---|---|---|
+| HP | 3455A | Trimpots |
 | HP | 3456A | Trimpots |
 | HP | 3457A | Front-panel, GPIB |
 | HP/Agilent | 34401A | Front-panel, GPIB |
@@ -104,25 +105,25 @@ Notes:
 
 Ohms calibration info:
 
-| Make | Model | Valid cal. input range |
-|---|---|---|
-| HP | 3456A | (arbitrary) |
-| HP | 3457A | (See note<sup>*</sup>) |
-| HP/Agilent | 34401A | 0.9x to 1.1x |
-| Keithley | 192 | (must less than full-scale, e.g. 1.999999) |
-| Keithley | 193 | (See note<sup>*</sup>) |
-| Keithley | 196 | (See note<sup>*</sup>) |
-| Keithley | 2000 | 0.9x to 1.1x |
-| Keithley | 2015 | 0.9x to 1.1x |
-| Fluke | 8502A | |
-| Fluke | 8505A | |
-| Fluke | 8520A | |
-| Datron | 1062 | |
-| Prema | 6001 | |
+| Make | Model | Standards needed | Valid cal. input range |
+|---|---|---|---|
+| HP | 3455A | 1k, 10k, 100k, 1M, 10M | (arbitrary) |
+| HP | 3456A | 1k, 10k, 100k, 1M, 10M | (arbitrary) |
+| HP | 3457A | 30R, 300R, 3k, 30K, 300K, 3Meg, 30Meg | (See note<sup>*</sup>) |
+| HP/Agilent | 34401A | | 0.9x to 1.1x |
+| Keithley | 192 | | (must less than full-scale, e.g. 1.999999) |
+| Keithley | 193 | | (See note<sup>*</sup>) |
+| Keithley | 196 | | (See note<sup>*</sup>) |
+| Keithley | 2000 | | 0.9x to 1.1x |
+| Keithley | 2015 | | 0.9x to 1.1x |
+| Fluke | 8502A | | |
+| Fluke | 8505A | | |
+| Fluke | 8520A | | |
+| Datron | 1062 | | |
+| Prema | 6001 | | |
 
 Notes:
-- The 3457A allows entering the exact value of the calibration source, but I'm not sure of the allowed range of values.  The service manual lists the following "required equipment" for calibration:
-  - 30R (+/-0.2%), 300R (+/-0.02%), 3K (+/-0.003%), 30K (+/-0.001%), 300K (+/-0.001%), 3Meg (+/-0.002%), 30Meg (+/-0.009%)
+- The 3457A allows entering the exact value of the calibration source, but I'm not sure of the allowed range of values.
 - The Keithley 192 calls for 1.9x calibration values.  The manual also specifies "To prevent AD saturation, peak AC+DC value must be less than full scale on any range".
 - The Keithley 193 calls for 1.9x calibration values.  However, it allows entering arbitrary values.
 - The Keithley 196 calls for 1.9x calibration values.  However, it allows entering arbitrary values.
