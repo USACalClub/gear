@@ -129,6 +129,8 @@ Notes:
 
 ### Additional resources:
 
+- HP 3455A
+  - daqq.eu [[1](http://www.daqq.eu/?p=577)] [[2](http://www.daqq.eu/?p=645)] [[3](http://www.daqq.eu/?p=695)]
 - HP 3456A
   - [xDevs](https://xdevs.com/fix/hp3456a/)
 - Keithley 199
