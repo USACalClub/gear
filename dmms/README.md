@@ -145,13 +145,18 @@ Notes:
 
 - HP 3455A
   - daqq.eu [[1](http://www.daqq.eu/?p=577)] [[2](http://www.daqq.eu/?p=645)] [[3](http://www.daqq.eu/?p=695)]
+  - [emperor](http://emperoroftestequipment.weebly.com/)
 - HP 3456A
   - [xDevs](https://xdevs.com/fix/hp3456a/)
-- Keithley 199
-  - [Re-engineered digital board](https://www.eevblog.com/forum/repair/keithley-199-digital-board-replacement/)
-  - [Replacing 1N4579 ref. zener with LM399](https://www.eevblog.com/forum/chat/bench-multimeter-(another)/msg265846/#msg265846)
-far-does-this-rabbit-hole-go-part-1/)]
-  - [teardown](https://www.eevblog.com/forum/reviews/fluke-8520a/)
+  - [emperor](http://emperoroftestequipment.weebly.com/)
+- HP 3457A
+  - [emperor](http://emperoroftestequipment.weebly.com/)
+- Keithley 2015
+  - [emperor](http://emperoroftestequipment.weebly.com/)
+- Fluke 8502A
+  - [review](http://emperoroftestequipment.weebly.com/)
+- Fluke 8506A
+  - [review](http://emperoroftestequipment.weebly.com/)
 - Datron 1062
   - [review](http://emperoroftestequipment.weebly.com/)
 
@@ -162,6 +167,7 @@ far-does-this-rabbit-hole-go-part-1/)]
 
 | Make | Model | Introduced | Comms | Image |
 |---|---|---|---|---|
+| HP | 3468B | | | |
 | HP | 3478A | | | |
 | Keithley | 195A | 1984? | GPIB | ![](media/keithley-195a.jpg) |
 | Keithley | 199<sup>*</sup> | 1988? | GPIB | ![](media/keithley-199.jpg) |
@@ -217,9 +223,20 @@ Notes:
 
 ### Additional resources:
 
+- HP 3468B
+  - [emperor](http://emperoroftestequipment.weebly.com/)
+- Fluke 8800A
+  - [emperor](http://emperoroftestequipment.weebly.com/)
 - Fluke 8520A
-  - teardown [[1](https://www.youtube.com/watch?v=ULQroWJUZdw)] [[2](https://www.eevblog.com/forum/repair/51-fluke-8520a-how-
-  - [review](http://emperoroftestequipment.weebly.com/)
+  - teardown [[1](https://www.youtube.com/watch?v=ULQroWJUZdw)] [[2](https://www.eevblog.com/forum/repair/51-fluke-8520a-how-far-does-this-rabbit-hole-go-part-1/)]
+  - [teardown](https://www.eevblog.com/forum/reviews/fluke-8520a/)
+  - [emperor](http://emperoroftestequipment.weebly.com/)
+- Fluke 8840A
+  - [emperor](http://emperoroftestequipment.weebly.com/)
+- Keithley 199
+  - [emperor](http://emperoroftestequipment.weebly.com/)
+  - [Re-engineered digital board](https://www.eevblog.com/forum/repair/keithley-199-digital-board-replacement/)
+  - [Replacing 1N4579 ref. zener with LM399](https://www.eevblog.com/forum/chat/bench-multimeter-(another)/msg265846/#msg265846)
 
 
 ## Models with 7.5-digit resolution
