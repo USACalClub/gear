@@ -119,7 +119,7 @@ Ohms calibration info:
 | Keithley | 196 | 300R, 3k, 30k, 300k, 3M, 30M, 300M | (allows entering arbitrary values) |
 | Keithley | 2000 | 1k, 10k, 100k, 1M | 0.9x to 1.1x |
 | Keithley | 2015 | 1k, 10k, 100k, 1M | 0.9x to 1.1x |
-| Fluke | 8502A | | |
+| Fluke | 8502A | 1.9k, 250K, 4M, 100M | (arbitrary) |
 | Fluke | 8505A | | |
 | Fluke | 8520A | | |
 | Datron | 1062 | | |
@@ -128,6 +128,7 @@ Ohms calibration info:
 Notes:
 - The 3457A allows entering the exact value of the calibration source, but I'm not sure of the allowed range of values.
 - The Keithley 192 calls for 1.9x calibration values.  The manual also specifies "To prevent AD saturation, peak AC+DC value must be less than full scale on any range".
+- Fluke 8502A uses 2k, 256k, and 4.091M reference resistors internally.
 
 ### Additional resources:
 
