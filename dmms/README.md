@@ -150,8 +150,7 @@ Notes:
 - Keithley 199
   - [Re-engineered digital board](https://www.eevblog.com/forum/repair/keithley-199-digital-board-replacement/)
   - [Replacing 1N4579 ref. zener with LM399](https://www.eevblog.com/forum/chat/bench-multimeter-(another)/msg265846/#msg265846)
-- Fluke 8520A
-  - teardown [[1](https://www.youtube.com/watch?v=ULQroWJUZdw)] [[2](https://www.eevblog.com/forum/repair/51-fluke-8520a-how-far-does-this-rabbit-hole-go-part-1/)]
+far-does-this-rabbit-hole-go-part-1/)]
   - [teardown](https://www.eevblog.com/forum/reviews/fluke-8520a/)
 - Datron 1062
   - [review](http://emperoroftestequipment.weebly.com/)
@@ -214,6 +213,13 @@ Notes:
 | Make | Model | Standards needed | Valid cal. input range |
 |---|---|---|---|
 | Fluke | 8520A | 100R, 1k, 10k, 100k, 1M | (arbitrary) |
+
+
+### Additional resources:
+
+- Fluke 8520A
+  - teardown [[1](https://www.youtube.com/watch?v=ULQroWJUZdw)] [[2](https://www.eevblog.com/forum/repair/51-fluke-8520a-how-
+  - [review](http://emperoroftestequipment.weebly.com/)
 
 
 ## Models with 7.5-digit resolution
