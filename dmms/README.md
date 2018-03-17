@@ -8,7 +8,7 @@ Information about digital multimeters, especially used models of interest to vol
 ### General info:
 
 | Make | Model | Introduced | Comms | Vref. | Image |
-|---|---|---|---|---|
+|---|---|---|---|---|---|
 | HP | 3455A | 1976? | GPIB | | ![](media/hp-3455a.jpg) |
 | HP | 3456A | 1980? | GPIB | | ![](media/hp-3456a.jpg) |
 | HP | 3457A | 1985? | GPIB | | ![](media/hp-3457a.jpg) |
