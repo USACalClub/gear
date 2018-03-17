@@ -244,6 +244,8 @@ Notes:
 
 | Make | Model | Introduced | Comms | Image |
 |---|---|---|---|---|
+| Keithley | 2001 | | | ![](media/keithley-2001.jpg) |
+| Keithley | 2010 | | | ![](media/keithley-2010.jpg) |
 | Datron | 1071 | | | ![](media/datron-1071.jpg) |
 | Datron | 1072 | | | ![](media/datron-1072.jpg) |
 | Datron | 1081 | | | ![](media/datron-1081.jpg) |
@@ -266,6 +268,6 @@ Notes:
 | Make | Model | Introduced | Comms | Image |
 |---|---|---|---|---|
 | HP/Agilent/Keysight | 3458a | | | ![](media/hp-3458a.jpg) |
+| Keithley | 2002 | | | ![](media/keithley-2002.jpg) |
 | Datron | 1271 | | | ![](media/datron-1271.jpg) |
 | Datron | 1281 | | | ![](media/datron-1281.jpg) |
-
