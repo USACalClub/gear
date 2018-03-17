@@ -179,6 +179,13 @@ Notes:
 | Datron | 1065 | 2x, 20x, ... | 199,999 | |
 
 
+### DC Volts info:
+
+| Make | Model | Ref. | Best res. (range) | Hi-Z (value) |
+|---|---|---|---|---|
+| Fluke | 8800A | SZA263? | | |
+
+
 
 ## Models with 7.5-digit resolution
 
