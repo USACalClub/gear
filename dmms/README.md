@@ -55,6 +55,7 @@ Notes:
 | Keithley | 2015 | 1x, 10x, ... | | "120% overrange" |
 | Fluke | 8502A | (gain:) x64, x8, x1, x/8, x/64 | | 312.5mV, 2.5V, 20V, 160V, 1200V |
 | Fluke | 8505A | 2x, 20x, ... | | 2.000000 |
+| Fluke | 8506A | | | |
 | Fluke | 8520A | | | |
 | Datron | 1061A | | 1,999,999 | |
 | Datron | 1062 | | 1,999,999 | |
@@ -106,6 +107,7 @@ Note:
 | Keithley | 2015 | Front panel, GPIB |
 | Fluke | 8502A | Front panel (calibration memory, option -04) or trimpots |
 | Fluke | 8505A | Front panel |
+| Fluke | 8506A | |
 | Fluke | 8520A | |
 | Datron | 1062 | |
 | Prema | 6001 | |
@@ -128,14 +130,15 @@ Ohms calibration info:
 | Keithley | 2015 | 1k, 10k, 100k, 1M | 0.9x to 1.1x |
 | Fluke | 8502A | 1.9k, 250K, 4M, 100M | (arbitrary) |
 | Fluke | 8505A | 1.9k, 250k, 4M, 19M, 100M | "any known value from 60% of range to full scale" |
-| Fluke | 8520A | | |
+| Fluke | 8506A | 1.9k, 4M, 250k, 100M | |
+| Fluke | 8520A | 1.9k, 4M, 250k, 100M | |
 | Datron | 1062 | | |
 | Prema | 6001 | | |
 
 Notes:
 - The 3457A allows entering the exact value of the calibration source, but I'm not sure of the allowed range of values.
 - The Keithley 192 calls for 1.9x calibration values.  The manual also specifies "To prevent AD saturation, peak AC+DC value must be less than full scale on any range".
-- Fluke 8502A uses 2k, 256k, and 4.091M reference resistors internally.
+- Fluke 8502A, 8505A and 8506A use a set of 2k, 256k, and 4.091M reference resistors internally.
 
 ### Additional resources:
 
