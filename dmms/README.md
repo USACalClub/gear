@@ -160,10 +160,10 @@ Notes:
 | Keithley | 199<sup>*</sup> | 1988? | GPIB | ![](media/keithley-199.jpg) |
 | Fluke | 45 | | | ![](media/fluke-45.jpg) |
 | Fluke | 8800A | | | ![](media/fluke-8800a.jpg) |
-| Fluke | 8808A | | | ![](media/fluke-8808a.jpg) |
 | Fluke | 8810A | | | ![](media/fluke-8810a.jpg) |
 | Fluke | 8840A | | | ![](media/fluke-8840a.jpg) |
 | Fluke | 8842A | | | ![](media/fluke-8842a.jpg) |
+| Fluke | 8808A | | | ![](media/fluke-8808a.jpg) |
 | Datron | 1061 | | | ![](media/datron-1061.jpg) |
 | Datron | 1065 | | | ![](media/datron-1065.jpg) |
 | Rigol | DM3058E | | | ![](media/rigol-dm3058e.jpg) |
@@ -185,6 +185,7 @@ Notes:
 |---|---|---|---|---|
 | Fluke | 8800A | SZA263? | | |
 | Fluke | 8840A | LTFLU-1 [[1](https://youtu.be/X4_iRB2DIW8?t=12m36s)] | | |
+| Fluke | 8842A | LTFLU-1 [[1](https://www.eevblog.com/forum/metrology/the-ltflu-(aka-sza263)-reference-zener-diode-circuit/msg610468/#msg610468)] | | |
 
 
 
