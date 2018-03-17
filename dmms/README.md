@@ -82,7 +82,9 @@ Notes:
 | Fluke | 8502A | | 1uV (1V) | 100mV, 1V, 10V |
 | Fluke | 8505A | | 100nV (200mV) | 200mV, 2V, 20V |
 | Fluke | 8506A | SZA263 [[1](https://doc.xdevs.com/doc/Fluke/8506A/r2adc/174747jo1f3fy75zc4j9vy.jpg)] | 100nV (200mV) | 200mV, 2V, 20V |
+| Datron | 1061A | | | | |
 | Datron | 1062 | | | | |
+| Datron | 1065A | | | | |
 | Prema | 6001 | | | | |
 | Solartron | 7150 | | | | 200mV, 2V (>10G) |
 
@@ -105,13 +107,15 @@ Note:
 | Fluke | 8502A | Front panel (calibration memory, option -04) or trimpots |
 | Fluke | 8505A | Front panel |
 | Fluke | 8506A | |
-| Datron | 1062 | |
+| Datron | 1061A | Front panel, GPIB |
+| Datron | 1062 | Front panel, GPIB |
+| Datron | 1065 | |
 | Prema | 6001 | |
 
 Notes:
 - The 34401A's calibration counts each range as a "calibration", so a full calibration will increase the count by 35.
 
-Ohms calibration info:
+#### Ohms calibration info:
 
 | Make | Model | Standards needed | Valid cal. input range |
 |---|---|---|---|
@@ -127,7 +131,9 @@ Ohms calibration info:
 | Fluke | 8502A | 1.9k, 250K, 4M, 100M | (arbitrary) |
 | Fluke | 8505A | 1.9k, 250k, 4M, 19M, 100M | "any known value from 60% of range to full scale" |
 | Fluke | 8506A | 1.9k, 4M, 250k, 100M | |
-| Datron | 1062 | | |
+| Datron | 1061A | 10R, 100R, 1k, 10k, 100k, 1M, 10M | "20% to 200% of range" |
+| Datron | 1062 | 10R, 100R, 1k, 10k, 100k, 1M, 10M | "20% to 200% of range" |
+| Datron | 1065 | | |
 | Prema | 6001 | | |
 
 Notes:
@@ -201,7 +207,7 @@ Notes:
 | Keithley | 2015 | Front panel, GPIB |
 | Fluke | 8520A | Trimpots |
 
-Ohms calibration info:
+#### Ohms calibration info:
 
 | Make | Model | Standards needed | Valid cal. input range |
 |---|---|---|---|
