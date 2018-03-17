@@ -73,7 +73,7 @@ Notes:
 | HP | 3456A | | 1uV (1V) | 100mV, 1V, 10V |
 | HP | 3456A | | 100nV (100mV) | 100mV, 1V, 10V |
 | HP | 3457A | LM399 | 10nV (30mV) | 30mV, 300mV, 3V |
-| HP/Agilent | LM399 | 34401A | | 100nV (100mV) | 100mV, 1V, 10V (>10G) |
+| HP/Agilent | | 34401A | LM399 | 100nV (100mV) | 100mV, 1V, 10V (>10G) |
 | Keithley | 192 | | 1uV (2V<sup>*</sup>) | 200mV, 2V, 20V (>1G) |
 | Keithley | 193 | | 100nV (200mV) | 200mV, 2V |
 | Keithley | 196 | | 100nV (300mV) | 300mV, 3V (>1G) |
