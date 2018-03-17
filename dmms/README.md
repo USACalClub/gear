@@ -22,6 +22,7 @@ Information about digital multimeters, especially used models of interest to vol
 | ~~Keithley~~ | ~~2100~~ | | | ![](media/keithley-2100.jpg) |
 | Fluke | 8502A | 1978? | GPIB (opt. 05) | ![](media/fluke-8502a.jpg) |
 | Fluke | 8505A | 1983? | GPIB (opt. 05) | ![](media/fluke-8505a.jpg) |
+| Fluke | 8506A | | | ![](media/fluke-8506a.jpg) |
 | Fluke | 8520A | | GPIB | ![](media/fluke-8520a.jpg) |
 | Fluke | 8845A | | | ![](media/fluke-8845a.jpg) |
 | Fluke | 8846A | | | ![](media/fluke-8846a.jpg) |
