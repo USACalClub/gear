@@ -108,7 +108,7 @@ Note:
 | Fluke | 8846A | Remote only |
 | Datron | 1061A | Front panel, Remote |
 | Datron | 1062 | Front panel, Remote |
-| Datron | 1065 | |
+| Datron | 1065A | |
 
 Notes:
 - The 34401A's calibration counts each range as a "calibration", so a full calibration will increase the count by 35.
@@ -133,7 +133,7 @@ Notes:
 | Fluke | 8846A | 10R, 100R, 1k, 10k, 100k, 1M, 10M, 100M, 1G | |
 | Datron | 1061A | 10R, 100R, 1k, 10k, 100k, 1M, 10M | "20% to 200% of range" |
 | Datron | 1062 | 10R, 100R, 1k, 10k, 100k, 1M, 10M | "20% to 200% of range" |
-| Datron | 1065 | | |
+| Datron | 1065A | | |
 
 Notes:
 - The 3457A allows entering the exact value of the calibration source, but I'm not sure of the allowed range of values.
