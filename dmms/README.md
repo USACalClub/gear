@@ -184,7 +184,7 @@ Notes:
 | Make | Model | Ref. | Best res. (range) | Hi-Z (value) |
 |---|---|---|---|---|
 | Fluke | 8800A | SZA263? | | |
-| Fluke | 8840A | LTFLU-1 | | |
+| Fluke | 8840A | LTFLU-1 [[1](https://youtu.be/X4_iRB2DIW8?t=12m36s)] | | |
 
 
 
