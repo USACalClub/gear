@@ -28,9 +28,6 @@ Information about digital multimeters, especially used models of interest to vol
 | Datron | 1061A | | GPIB | ![](media/datron-1061a.jpg) |
 | Datron | 1062 | | GPIB | ![](media/datron-1062.jpg) |
 | Datron | 1065A | | | ![](media/datron-1065a.jpg) |
-| Prema | 6001 | | | ![](media/prema-6001.jpg) |
-| Solartron | 7150 | | GPIB | ![](media/solartron-7150.jpg) |
-| Solartron | 7151 | | GPIB | ![](media/solartron-7151.jpg) |
 | Rigol | DM3068 | | | ![](media/rigol-dm3068.jpg) |
 
 Notes:
@@ -59,8 +56,6 @@ Notes:
 | Datron | 1061A | | 1,999,999 | |
 | Datron | 1062 | | 1,999,999 | |
 | Datron | 1065A | | 1,999,999 | |
-| Prema | 6001 | | | |
-| Solartron | 7150 | | 2,350,000 | |
 
 Notes:
 - HP 3457A supports greater resolution via GPIB
@@ -88,8 +83,6 @@ Notes:
 | Datron | 1061A | | | | |
 | Datron | 1062 | | | | |
 | Datron | 1065A | | | | |
-| Prema | 6001 | | | | |
-| Solartron | 7150 | | | | 200mV, 2V (>10G) |
 
 
 Note:
@@ -116,7 +109,6 @@ Note:
 | Datron | 1061A | Front panel, Remote |
 | Datron | 1062 | Front panel, Remote |
 | Datron | 1065 | |
-| Prema | 6001 | |
 
 Notes:
 - The 34401A's calibration counts each range as a "calibration", so a full calibration will increase the count by 35.
@@ -142,7 +134,6 @@ Notes:
 | Datron | 1061A | 10R, 100R, 1k, 10k, 100k, 1M, 10M | "20% to 200% of range" |
 | Datron | 1062 | 10R, 100R, 1k, 10k, 100k, 1M, 10M | "20% to 200% of range" |
 | Datron | 1065 | | |
-| Prema | 6001 | | |
 
 Notes:
 - The 3457A allows entering the exact value of the calibration source, but I'm not sure of the allowed range of values.
@@ -280,6 +271,11 @@ Notes:
 | Keithley | 2002 | | | ![](media/keithley-2002.jpg) |
 | Datron | 1271 | | | ![](media/datron-1271.jpg) |
 | Datron | 1281 | | | ![](media/datron-1281.jpg) |
+
+
+## Obscure models
+
+See [obscure.md](obscure.md).
 
 
 ## Special thanks
