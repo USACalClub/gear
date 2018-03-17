@@ -22,8 +22,8 @@ Information about digital multimeters, especially used models of interest to vol
 | Fluke | 8502A | 1978? | GPIB (opt. 05) | ![](media/fluke-8502a.jpg) |
 | Fluke | 8505A | 1983? | GPIB (opt. 05) | ![](media/fluke-8505a.jpg) |
 | Fluke | 8506A | 1983? | GPIB (opt. 05) | ![](media/fluke-8506a.jpg) |
-| Fluke | 8845A | | | ![](media/fluke-8845a.jpg) |
-| Fluke | 8846A | | | ![](media/fluke-8846a.jpg) |
+| Fluke | 8845A | 2006? | GPIB, RS-232, Ethernet | ![](media/fluke-8845a.jpg) |
+| Fluke | 8846A | 2006? | GPIB, RS-232, Ethernet | ![](media/fluke-8846a.jpg) |
 | Tektronix | DMM4050 | | | ![](media/tektronix-dmm4050.jpg) |
 | Datron | 1061A | | GPIB | ![](media/datron-1061a.jpg) |
 | Datron | 1062 | | GPIB | ![](media/datron-1062.jpg) |
@@ -54,6 +54,8 @@ Notes:
 | Fluke | 8502A | (gain:) x64, x8, x1, x/8, x/64 | | 312.5mV, 2.5V, 20V, 160V, 1200V |
 | Fluke | 8505A | 2x, 20x, ... | | 2.000000 |
 | Fluke | 8506A | 2x, 20x, ... | | 2.000000 |
+| Fluke | 8845A |  | |  |
+| Fluke | 8846A |  | |  |
 | Datron | 1061A | | 1,999,999 | |
 | Datron | 1062 | | 1,999,999 | |
 | Datron | 1065A | | 1,999,999 | |
@@ -81,11 +83,14 @@ Notes:
 | Fluke | 8502A | | 1uV (1V) | 100mV, 1V, 10V |
 | Fluke | 8505A | | 100nV (200mV) | 200mV, 2V, 20V |
 | Fluke | 8506A | SZA263 [[1](https://doc.xdevs.com/doc/Fluke/8506A/r2adc/174747jo1f3fy75zc4j9vy.jpg)] | 100nV (200mV) | 200mV, 2V, 20V |
+| Fluke | 8845A | LM399? | 100nV (100mV) | 100mV, 1V, 10V (>10G) |
+| Fluke | 8846A | LM399 [[1](https://youtu.be/5dJyJD30NXQ?t=4m23s)] | 100nV (100mV) | 100mV, 1V, 10V (>10G) |
 | Datron | 1061A | | | | |
 | Datron | 1062 | | | | |
 | Datron | 1065A | | | | |
 | Prema | 6001 | | | | |
 | Solartron | 7150 | | | | 200mV, 2V (>10G) |
+
 
 Note:
 - Keithley 192 has no 0.2V range in 6.5-digit mode (best 6.5-digit resolution is 1uV in 2V range).
@@ -96,18 +101,20 @@ Note:
 |---|---|---|
 | HP | 3455A | Trimpots |
 | HP | 3456A | Trimpots |
-| HP | 3457A | Front panel, GPIB |
-| HP/Agilent | 34401A | Front panel, GPIB |
+| HP | 3457A | Front panel, Remote |
+| HP/Agilent | 34401A | Front panel, Remote |
 | Keithley | 192 | Trimpots |
-| Keithley | 193 | Front panel, GPIB |
-| Keithley | 196 | Front panel, GPIB |
-| Keithley | 2000 | Front panel, GPIB |
-| Keithley | 2015 | Front panel, GPIB |
+| Keithley | 193 | Front panel, Remote |
+| Keithley | 196 | Front panel, Remote |
+| Keithley | 2000 | Front panel, Remote |
+| Keithley | 2015 | Front panel, Remote |
 | Fluke | 8502A | Front panel (calibration memory, option -04) or trimpots |
 | Fluke | 8505A | Front panel |
 | Fluke | 8506A | |
-| Datron | 1061A | Front panel, GPIB |
-| Datron | 1062 | Front panel, GPIB |
+| Fluke | 8845A | Remote only |
+| Fluke | 8846A | Remote only |
+| Datron | 1061A | Front panel, Remote |
+| Datron | 1062 | Front panel, Remote |
 | Datron | 1065 | |
 | Prema | 6001 | |
 
@@ -130,6 +137,8 @@ Notes:
 | Fluke | 8502A | 1.9k, 250K, 4M, 100M | (arbitrary) |
 | Fluke | 8505A | 1.9k, 250k, 4M, 19M, 100M | "any known value from 60% of range to full scale" |
 | Fluke | 8506A | 1.9k, 4M, 250k, 100M | |
+| Fluke | 8845A | 100R, 1k, 10k, 100k, 1M, 10M, 100M | |
+| Fluke | 8846A | 10R, 100R, 1k, 10k, 100k, 1M, 10M, 100M, 1G | |
 | Datron | 1061A | 10R, 100R, 1k, 10k, 100k, 1M, 10M | "20% to 200% of range" |
 | Datron | 1062 | 10R, 100R, 1k, 10k, 100k, 1M, 10M | "20% to 200% of range" |
 | Datron | 1065 | | |
