@@ -23,7 +23,6 @@ Information about digital multimeters, especially used models of interest to vol
 | Fluke | 8502A | 1978? | GPIB (opt. 05) | ![](media/fluke-8502a.jpg) |
 | Fluke | 8505A | 1983? | GPIB (opt. 05) | ![](media/fluke-8505a.jpg) |
 | Fluke | 8506A | 1983? | GPIB (opt. 05) | ![](media/fluke-8506a.jpg) |
-| Fluke | 8520A | | GPIB | ![](media/fluke-8520a.jpg) |
 | Fluke | 8845A | | | ![](media/fluke-8845a.jpg) |
 | Fluke | 8846A | | | ![](media/fluke-8846a.jpg) |
 | Tektronix | DMM4050 | | | ![](media/tektronix-dmm4050.jpg) |
@@ -55,8 +54,7 @@ Notes:
 | Keithley | 2015 | 1x, 10x, ... | | "120% overrange" |
 | Fluke | 8502A | (gain:) x64, x8, x1, x/8, x/64 | | 312.5mV, 2.5V, 20V, 160V, 1200V |
 | Fluke | 8505A | 2x, 20x, ... | | 2.000000 |
-| Fluke | 8506A | | | |
-| Fluke | 8520A | | | |
+| Fluke | 8506A | 2x, 20x, ... | | 2.000000 |
 | Datron | 1061A | | 1,999,999 | |
 | Datron | 1062 | | 1,999,999 | |
 | Datron | 1065A | | 1,999,999 | |
@@ -66,7 +64,7 @@ Notes:
 Notes:
 - HP 3457A supports greater resolution via GPIB
 - HP 34401A supports greater resolution via GPIB / RS-232
-- Fluke 8505A supports 7.5-digits in 10V range (1uV resolution) using AVG operating mode
+- Fluke 8505A and 8506A support 7.5-digits in the 10V range (1uV resolution) using AVG operating mode
 
 ### DC Volts info:
 
@@ -83,8 +81,7 @@ Notes:
 | Keithley | 2015 | | | |
 | Fluke | 8502A | | 1uV (1V) | 100mV, 1V, 10V |
 | Fluke | 8505A | | 100nV (200mV) | 200mV, 2V, 20V |
-| Fluke | 8506A | SZA263 [[1](https://doc.xdevs.com/doc/Fluke/8506A/r2adc/174747jo1f3fy75zc4j9vy.jpg)] | | |
-| Fluke | 8520A | SZA263 [[1](https://www.eevblog.com/forum/reviews/fluke-8520a/msg81302/#msg81302)] | | |
+| Fluke | 8506A | SZA263 [[1](https://doc.xdevs.com/doc/Fluke/8506A/r2adc/174747jo1f3fy75zc4j9vy.jpg)] | 100nV (200mV) | 200mV, 2V, 20V |
 | Datron | 1062 | | | | |
 | Prema | 6001 | | | | |
 | Solartron | 7150 | | | | 200mV, 2V (>10G) |
@@ -108,7 +105,6 @@ Note:
 | Fluke | 8502A | Front panel (calibration memory, option -04) or trimpots |
 | Fluke | 8505A | Front panel |
 | Fluke | 8506A | |
-| Fluke | 8520A | |
 | Datron | 1062 | |
 | Prema | 6001 | |
 
@@ -131,7 +127,6 @@ Ohms calibration info:
 | Fluke | 8502A | 1.9k, 250K, 4M, 100M | (arbitrary) |
 | Fluke | 8505A | 1.9k, 250k, 4M, 19M, 100M | "any known value from 60% of range to full scale" |
 | Fluke | 8506A | 1.9k, 4M, 250k, 100M | |
-| Fluke | 8520A | 1.9k, 4M, 250k, 100M | |
 | Datron | 1062 | | |
 | Prema | 6001 | | |
 
@@ -166,6 +161,7 @@ Notes:
 | Fluke | 45 | | | ![](media/fluke-45.jpg) |
 | Fluke | 8800A | | | ![](media/fluke-8800a.jpg) |
 | Fluke | 8810A | | | ![](media/fluke-8810a.jpg) |
+| Fluke | 8520A | 1979? | GPIB | ![](media/fluke-8520a.jpg) |
 | Fluke | 8840A | | | ![](media/fluke-8840a.jpg) |
 | Fluke | 8842A | | | ![](media/fluke-8842a.jpg) |
 | Fluke | 8808A | | | ![](media/fluke-8808a.jpg) |
@@ -180,17 +176,36 @@ Notes:
 
 | Make | Model | Range scheme | A/D counts | Max value |
 |---|---|---|---|---|
+| Fluke | 8520A | 1x, 10x, ... | | 1.99999 |
 | Datron | 1061 | 2x, 20x, ... | 199,999 | |
 | Datron | 1065 | 2x, 20x, ... | 199,999 | |
 
+Notes:
+- Fluke 8520A
+  - DCV full-scale readings: 199.999mV, 1.99999V, 16.0100V, 130.100V, 1024.00V
 
 ### DC Volts info:
 
 | Make | Model | Ref. | Best res. (range) | Hi-Z (value) |
 |---|---|---|---|---|
 | Fluke | 8800A | SZA263? | | |
+| Fluke | 8520A | SZA263 [[1](https://www.eevblog.com/forum/reviews/fluke-8520a/msg81302/#msg81302)] | 1uV (100mV) | 100mV, 1V, 10V |
 | Fluke | 8840A | LTFLU-1 [[1](https://youtu.be/X4_iRB2DIW8?t=12m36s)] | | |
 | Fluke | 8842A | LTFLU-1 [[1](https://www.eevblog.com/forum/metrology/the-ltflu-(aka-sza263)-reference-zener-diode-circuit/msg610468/#msg610468)] | | |
+
+
+### Calibration info:
+
+| Make | Model | Cal methods |
+|---|---|---|
+| Keithley | 2015 | Front panel, GPIB |
+| Fluke | 8520A | Trimpots |
+
+Ohms calibration info:
+
+| Make | Model | Standards needed | Valid cal. input range |
+|---|---|---|---|
+| Fluke | 8520A | 100R, 1k, 10k, 100k, 1M | (arbitrary) |
 
 
 ## Models with 7.5-digit resolution
