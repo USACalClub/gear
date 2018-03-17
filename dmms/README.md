@@ -81,7 +81,7 @@ Notes:
 | Keithley | 2015 | | | |
 | Fluke | 8502A | | 1uV (1V) | 100mV, 1V, 10V |
 | Fluke | 8505A | | 100nV (200mV) | 200mV, 2V, 20V |
-| Fluke | 8520A | SZA263 | | |
+| Fluke | 8520A | SZA263 [[1](https://www.eevblog.com/forum/reviews/fluke-8520a/msg81302/#msg81302)] | | |
 | Datron | 1062 | | | | |
 | Prema | 6001 | | | | |
 | Solartron | 7150 | | | | 200mV, 2V (>10G) |
