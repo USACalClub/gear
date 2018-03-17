@@ -145,7 +145,8 @@ Notes:
   - [Re-engineered digital board](https://www.eevblog.com/forum/repair/keithley-199-digital-board-replacement/)
   - [Replacing 1N4579 ref. zener with LM399](https://www.eevblog.com/forum/chat/bench-multimeter-(another)/msg265846/#msg265846)
 - Fluke 8520A
-  - [teardown](https://www.youtube.com/watch?v=ULQroWJUZdw)
+  - teardown [[1](https://www.youtube.com/watch?v=ULQroWJUZdw)] [[2](https://www.eevblog.com/forum/repair/51-fluke-8520a-how-far-does-this-rabbit-hole-go-part-1/)]
+  - [teardown](https://www.eevblog.com/forum/reviews/fluke-8520a/)
 
 
 ## Models with 5.5-digit resolution
