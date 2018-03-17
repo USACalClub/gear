@@ -192,6 +192,7 @@ Notes:
 |---|---|---|---|---|
 | Keithley | 195 | 2x, 20x, ... | | 1.99999 |
 | Keithley | 195A | 2x, 20x, ... | | 1.99999 |
+| Keithley | 199 | 3x, 30x, ... | 302,999 | |
 | Fluke | 8520A | 1x, 10x, ... | | 1.99999 |
 | Datron | 1061 | 2x, 20x, ... | 199,999 | |
 | Datron | 1065 | 2x, 20x, ... | 199,999 | |
@@ -206,6 +207,7 @@ Notes:
 |---|---|---|---|---|
 | Keithley | 195 |  | 100nV (20mV) | 20mV, 200mV, 2V (>1G) |
 | Keithley | 195A |  | 100nV (20mV) | 20mV, 200mV, 2V (>1G) |
+| Keithley | 199 | 1N4579 [[1](https://www.ifixit.com/Teardown/Keithley+199+Scanner+Multimeter+Teardown/18814)] | 1uV (300mV) | 300mV, 3V (>1G) |
 | Fluke | 8800A | SZA263? | | |
 | Fluke | 8520A | SZA263 [[1](https://www.eevblog.com/forum/reviews/fluke-8520a/msg81302/#msg81302)] | 1uV (100mV) | 100mV, 1V, 10V |
 | Fluke | 8840A | LTFLU-1 [[1](https://youtu.be/X4_iRB2DIW8?t=12m36s)] | | |
@@ -218,6 +220,7 @@ Notes:
 |---|---|---|
 | Keithley | 195 | Front panel, Remote |
 | Keithley | 195A | Front panel, Remote |
+| Keithley | 199 | Front panel, Remote |
 | Fluke | 8520A | Trimpots |
 
 #### Ohms calibration info:
@@ -226,6 +229,7 @@ Notes:
 |---|---|---|---|
 | Keithley | 195 | 19R, 190R, 1.9k, 19k, 190k, 1.9M, 10M | |
 | Keithley | 195A | 19R, 190R, 1.9k, 19k, 190k, 1.9M, 10M | |
+| Keithley | 199 | 190R, 1.9k, 19k, 190k, 1.9M, 19M, 100M | |
 | Fluke | 8520A | 100R, 1k, 10k, 100k, 1M | (arbitrary) |
 
 
