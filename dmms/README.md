@@ -271,3 +271,9 @@ Notes:
 | Keithley | 2002 | | | ![](media/keithley-2002.jpg) |
 | Datron | 1271 | | | ![](media/datron-1271.jpg) |
 | Datron | 1281 | | | ![](media/datron-1281.jpg) |
+
+
+## Special thanks
+
+- TiN at [xDevs.com](https://xdevs.com/fix/) for his extremely thorough repair and teardown articles, high resolution photos and manuals collection.
+
