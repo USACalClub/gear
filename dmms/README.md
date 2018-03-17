@@ -7,32 +7,32 @@ Information about digital multimeters, especially used models of interest to vol
 
 ### General info:
 
-| Make | Model | Introduced | Comms | Image |
+| Make | Model | Introduced | Comms | Vref. | Image |
 |---|---|---|---|---|
-| HP | 3455A | 1976? | GPIB | ![](media/hp-3455a.jpg) |
-| HP | 3456A | 1980? | GPIB | ![](media/hp-3456a.jpg) |
-| HP | 3457A | 1985? | GPIB | ![](media/hp-3457a.jpg) |
-| HP / Agilent / Keysight | 34401A | 1991? | GPIB, RS-232 | ![](media/hp-34401a.jpg) |
-| Keithley | 192 | 1982? | ? | ![](media/keithley-192.jpg) |
-| Keithley | 193 | 1985? | GPIB | ![](media/keithley-193.jpg) |
-| Keithley | 196 | 1986? | GPIB | ![](media/keithley-196.jpg) |
-| Keithley | 199 | 1986? | GPIB | ![](media/keithley-199.jpg) |
-| Keithley | 2000 | | GPIB, RS-232 | ![](media/keithley-2000.jpg) |
-| Keithley | 2015 | | GPIB, RS-232 | ![](media/keithley-2015.jpg) |
-| ~~Keithley~~ | ~~2100~~ | | | ![](media/keithley-2100.jpg) |
-| Fluke | 8502A | 1978? | GPIB (opt. 05) | ![](media/fluke-8502a.jpg) |
-| Fluke | 8505A | 1983? | GPIB (opt. 05) | ![](media/fluke-8505a.jpg) |
-| Fluke | 8520A | | GPIB | ![](media/fluke-8520a.jpg) |
-| Fluke | 8845A | | | ![](media/fluke-8845a.jpg) |
-| Fluke | 8846A | | | ![](media/fluke-8846a.jpg) |
-| Tektronix | DMM4050 | | | ![](media/tektronix-dmm4050.jpg) |
-| Datron | 1061A | | GPIB | ![](media/datron-1061a.jpg) |
-| Datron | 1062 | | GPIB | ![](media/datron-1062.jpg) |
-| Datron | 1065A | | | ![](media/datron-1065a.jpg) |
-| Prema | 6001 | | | ![](media/prema-6001.jpg) |
-| Solartron | 7150 | | GPIB | ![](media/solartron-7150.jpg) |
-| Solartron | 7151 | | GPIB | ![](media/solartron-7151.jpg) |
-| Rigol | DM3068 | | | ![](media/rigol-dm3068.jpg) |
+| HP | 3455A | 1976? | GPIB | | ![](media/hp-3455a.jpg) |
+| HP | 3456A | 1980? | GPIB | | ![](media/hp-3456a.jpg) |
+| HP | 3457A | 1985? | GPIB | | ![](media/hp-3457a.jpg) |
+| HP / Agilent / Keysight | 34401A | 1991? | GPIB, RS-232 | LM399 | ![](media/hp-34401a.jpg) |
+| Keithley | 192 | 1982? | ? | | ![](media/keithley-192.jpg) |
+| Keithley | 193 | 1985? | GPIB | | ![](media/keithley-193.jpg) |
+| Keithley | 196 | 1986? | GPIB | | ![](media/keithley-196.jpg) |
+| Keithley | 199 | 1986? | GPIB | | ![](media/keithley-199.jpg) |
+| Keithley | 2000 | | GPIB, RS-232 | | ![](media/keithley-2000.jpg) |
+| Keithley | 2015 | | GPIB, RS-232 | | ![](media/keithley-2015.jpg) |
+| ~~Keithley~~ | ~~2100~~ | | | | ![](media/keithley-2100.jpg) |
+| Fluke | 8502A | 1978? | GPIB (opt. 05) | | ![](media/fluke-8502a.jpg) |
+| Fluke | 8505A | 1983? | GPIB (opt. 05) | | ![](media/fluke-8505a.jpg) |
+| Fluke | 8520A | | GPIB | SZA263 | ![](media/fluke-8520a.jpg) |
+| Fluke | 8845A | | | | ![](media/fluke-8845a.jpg) |
+| Fluke | 8846A | | | | ![](media/fluke-8846a.jpg) |
+| Tektronix | DMM4050 | | | | ![](media/tektronix-dmm4050.jpg) |
+| Datron | 1061A | | GPIB | | ![](media/datron-1061a.jpg) |
+| Datron | 1062 | | GPIB | | ![](media/datron-1062.jpg) |
+| Datron | 1065A | | | | ![](media/datron-1065a.jpg) |
+| Prema | 6001 | | | | ![](media/prema-6001.jpg) |
+| Solartron | 7150 | | GPIB | | ![](media/solartron-7150.jpg) |
+| Solartron | 7151 | | GPIB | | ![](media/solartron-7151.jpg) |
+| Rigol | DM3068 | | | | ![](media/rigol-dm3068.jpg) |
 
 Notes:
 - "The rebadged Keithley 2100 was quite terrible" [[1](https://www.eevblog.com/forum/chat/bench-multimeter-(another)/msg244830/#msg244830)]
@@ -144,7 +144,8 @@ Notes:
 - Keithley 199
   - [Re-engineered digital board](https://www.eevblog.com/forum/repair/keithley-199-digital-board-replacement/)
   - [Replacing 1N4579 ref. zener with LM399](https://www.eevblog.com/forum/chat/bench-multimeter-(another)/msg265846/#msg265846)
-
+- Fluke 8520A
+  - [teardown](https://www.youtube.com/watch?v=ULQroWJUZdw)
 
 
 ## Models with 5.5-digit resolution
