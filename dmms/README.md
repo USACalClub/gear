@@ -54,8 +54,8 @@ Notes:
 | Fluke | 8502A | (gain:) x64, x8, x1, x/8, x/64 | | 312.5mV, 2.5V, 20V, 160V, 1200V |
 | Fluke | 8505A | 2x, 20x, ... | | 2.000000 |
 | Fluke | 8506A | 2x, 20x, ... | | 2.000000 |
-| Fluke | 8845A |  | |  |
-| Fluke | 8846A |  | |  |
+| Fluke | 8845A | 1x, 10x, ... | | "20% overrange" |
+| Fluke | 8846A | 1x, 10x, ... | | "20% overrange" |
 | Datron | 1061A | | 1,999,999 | |
 | Datron | 1062 | | 1,999,999 | |
 | Datron | 1065A | | 1,999,999 | |
