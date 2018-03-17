@@ -20,7 +20,7 @@ Information about digital multimeters, especially used models of interest to vol
 | Keithley | 2000 | | GPIB, RS-232 | ![](media/keithley-2000.jpg) |
 | Keithley | 2015 | | GPIB, RS-232 | ![](media/keithley-2015.jpg) |
 | ~~Keithley~~ | ~~2100~~ | | | ![](media/keithley-2100.jpg) |
-| Fluke | 8502A | 1978? | GPIB (opt.) | ![](media/fluke-8502a.jpg) |
+| Fluke | 8502A | 1978? | GPIB (opt. 05) | ![](media/fluke-8502a.jpg) |
 | Fluke | 8505A | | GPIB (opt.) | ![](media/fluke-8505a.jpg) |
 | Fluke | 8520A | | GPIB | ![](media/fluke-8520a.jpg) |
 | Fluke | 8845A | | | ![](media/fluke-8845a.jpg) |
