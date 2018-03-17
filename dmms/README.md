@@ -20,7 +20,7 @@ Information about digital multimeters, especially used models of interest to vol
 | Keithley | 2000 | | GPIB, RS-232 | ![](media/keithley-2000.jpg) |
 | Keithley | 2015 | | GPIB, RS-232 | ![](media/keithley-2015.jpg) |
 | ~~Keithley~~ | ~~2100~~ | | | ![](media/keithley-2100.jpg) |
-| Fluke | 8502A | | GPIB (opt.) | ![](media/fluke-8502a.jpg) |
+| Fluke | 8502A | 1978? | GPIB (opt.) | ![](media/fluke-8502a.jpg) |
 | Fluke | 8505A | | GPIB (opt.) | ![](media/fluke-8505a.jpg) |
 | Fluke | 8520A | | GPIB | ![](media/fluke-8520a.jpg) |
 | Fluke | 8845A | | | ![](media/fluke-8845a.jpg) |
@@ -36,6 +36,7 @@ Information about digital multimeters, especially used models of interest to vol
 
 Notes:
 - "The rebadged Keithley 2100 was quite terrible" [[1](https://www.eevblog.com/forum/chat/bench-multimeter-(another)/msg244830/#msg244830)]
+- "Avoid the Keithley 2100, it was an outsourced design with limited support/documentation and some annoying firmware bugs that were never fixed as far as I know." [[1](https://www.eevblog.com/forum/reviews/5-12-and-6-12-digits-bench-multimeters/msg125132/#msg125132)]
 - The Tektronix DMM4050 is a re-badge of the Fluke 8846A [[1](http://www.eevblog.com/forum/metrology/the-ltflu-(aka-sza263)-reference-zener-diode-circuit/msg609636/#msg609636)]
 
 ### Range info:
@@ -51,7 +52,7 @@ Notes:
 | Keithley | 196 | 3x, 30x, ... | 3,030,000 | |
 | Keithley | 2000 | 1x, 10x, ... | | "120% overrange" |
 | Keithley | 2015 | 1x, 10x, ... | | "120% overrange" |
-| Fluke | 8502A | | | |
+| Fluke | 8502A | (gain:) x64, x8, x1, x/8, x/64 | | 312.5mV, 2.5V, 20V, 160V, 1200V |
 | Fluke | 8505A | | | |
 | Fluke | 8520A | | | |
 | Datron | 1061A | | 1,999,999 | |
@@ -73,7 +74,7 @@ Notes:
 | Keithley | 196 | 100nV (300mV) | 300mV, 3V (>1G) |
 | Keithley | 2000 | 100nV (100mV) | 100mV, 1V, 10V (>10G) |
 | Keithley | 2015 | | |
-| Fluke | 8502A | | |
+| Fluke | 8502A | 1uV (1V) | 100mV, 1V, 10V |
 | Fluke | 8505A | | |
 | Fluke | 8520A | | |
 | Datron | 1062 | | |
@@ -89,14 +90,14 @@ Note:
 |---|---|---|
 | HP | 3455A | Trimpots |
 | HP | 3456A | Trimpots |
-| HP | 3457A | Front-panel, GPIB |
-| HP/Agilent | 34401A | Front-panel, GPIB |
+| HP | 3457A | Front panel, GPIB |
+| HP/Agilent | 34401A | Front panel, GPIB |
 | Keithley | 192 | Trimpots |
-| Keithley | 193 | Front-panel, GPIB |
-| Keithley | 196 | Front-panel, GPIB |
-| Keithley | 2000 | Front-panel, GPIB |
-| Keithley | 2015 | Front-panel, GPIB |
-| Fluke | 8502A | |
+| Keithley | 193 | Front panel, GPIB |
+| Keithley | 196 | Front panel, GPIB |
+| Keithley | 2000 | Front panel, GPIB |
+| Keithley | 2015 | Front panel, GPIB |
+| Fluke | 8502A | Front panel (calibration memory, option -04) or trimpots |
 | Fluke | 8505A | |
 | Fluke | 8520A | |
 | Datron | 1062 | |
