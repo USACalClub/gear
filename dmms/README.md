@@ -153,6 +153,8 @@ Notes:
 - Fluke 8520A
   - teardown [[1](https://www.youtube.com/watch?v=ULQroWJUZdw)] [[2](https://www.eevblog.com/forum/repair/51-fluke-8520a-how-far-does-this-rabbit-hole-go-part-1/)]
   - [teardown](https://www.eevblog.com/forum/reviews/fluke-8520a/)
+- Datron 1062
+  - [review](http://emperoroftestequipment.weebly.com/)
 
 
 ## Models with 5.5-digit resolution
