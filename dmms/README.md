@@ -7,32 +7,32 @@ Information about digital multimeters, especially used models of interest to vol
 
 ### General info:
 
-| Make | Model | Introduced | Comms | Vref. | Image |
-|---|---|---|---|---|---|
-| HP | 3455A | 1976? | GPIB | | ![](media/hp-3455a.jpg) |
-| HP | 3456A | 1980? | GPIB | | ![](media/hp-3456a.jpg) |
-| HP | 3457A | 1985? | GPIB | | ![](media/hp-3457a.jpg) |
-| HP / Agilent / Keysight | 34401A | 1991? | GPIB, RS-232 | LM399 | ![](media/hp-34401a.jpg) |
-| Keithley | 192 | 1982? | ? | | ![](media/keithley-192.jpg) |
-| Keithley | 193 | 1985? | GPIB | | ![](media/keithley-193.jpg) |
-| Keithley | 196 | 1986? | GPIB | | ![](media/keithley-196.jpg) |
-| Keithley | 199 | 1986? | GPIB | | ![](media/keithley-199.jpg) |
-| Keithley | 2000 | | GPIB, RS-232 | | ![](media/keithley-2000.jpg) |
-| Keithley | 2015 | | GPIB, RS-232 | | ![](media/keithley-2015.jpg) |
-| ~~Keithley~~ | ~~2100~~ | | | | ![](media/keithley-2100.jpg) |
-| Fluke | 8502A | 1978? | GPIB (opt. 05) | | ![](media/fluke-8502a.jpg) |
-| Fluke | 8505A | 1983? | GPIB (opt. 05) | | ![](media/fluke-8505a.jpg) |
-| Fluke | 8520A | | GPIB | SZA263 | ![](media/fluke-8520a.jpg) |
-| Fluke | 8845A | | | | ![](media/fluke-8845a.jpg) |
-| Fluke | 8846A | | | | ![](media/fluke-8846a.jpg) |
-| Tektronix | DMM4050 | | | | ![](media/tektronix-dmm4050.jpg) |
-| Datron | 1061A | | GPIB | | ![](media/datron-1061a.jpg) |
-| Datron | 1062 | | GPIB | | ![](media/datron-1062.jpg) |
-| Datron | 1065A | | | | ![](media/datron-1065a.jpg) |
-| Prema | 6001 | | | | ![](media/prema-6001.jpg) |
-| Solartron | 7150 | | GPIB | | ![](media/solartron-7150.jpg) |
-| Solartron | 7151 | | GPIB | | ![](media/solartron-7151.jpg) |
-| Rigol | DM3068 | | | | ![](media/rigol-dm3068.jpg) |
+| Make | Model | Introduced | Comms | Image |
+|---|---|---|---|---|
+| HP | 3455A | 1976? | GPIB | ![](media/hp-3455a.jpg) |
+| HP | 3456A | 1980? | GPIB | ![](media/hp-3456a.jpg) |
+| HP | 3457A | 1985? | GPIB | ![](media/hp-3457a.jpg) |
+| HP / Agilent / Keysight | 34401A | 1991? | GPIB, RS-232 | ![](media/hp-34401a.jpg) |
+| Keithley | 192 | 1982? | ? | ![](media/keithley-192.jpg) |
+| Keithley | 193 | 1985? | GPIB | ![](media/keithley-193.jpg) |
+| Keithley | 196 | 1986? | GPIB | ![](media/keithley-196.jpg) |
+| Keithley | 199 | 1986? | GPIB | ![](media/keithley-199.jpg) |
+| Keithley | 2000 | | GPIB, RS-232 | ![](media/keithley-2000.jpg) |
+| Keithley | 2015 | | GPIB, RS-232 | ![](media/keithley-2015.jpg) |
+| ~~Keithley~~ | ~~2100~~ | | | ![](media/keithley-2100.jpg) |
+| Fluke | 8502A | 1978? | GPIB (opt. 05) | ![](media/fluke-8502a.jpg) |
+| Fluke | 8505A | 1983? | GPIB (opt. 05) | ![](media/fluke-8505a.jpg) |
+| Fluke | 8520A | | GPIB | ![](media/fluke-8520a.jpg) |
+| Fluke | 8845A | | | ![](media/fluke-8845a.jpg) |
+| Fluke | 8846A | | | ![](media/fluke-8846a.jpg) |
+| Tektronix | DMM4050 | | | ![](media/tektronix-dmm4050.jpg) |
+| Datron | 1061A | | GPIB | ![](media/datron-1061a.jpg) |
+| Datron | 1062 | | GPIB | ![](media/datron-1062.jpg) |
+| Datron | 1065A | | | ![](media/datron-1065a.jpg) |
+| Prema | 6001 | | | ![](media/prema-6001.jpg) |
+| Solartron | 7150 | | GPIB | ![](media/solartron-7150.jpg) |
+| Solartron | 7151 | | GPIB | ![](media/solartron-7151.jpg) |
+| Rigol | DM3068 | | | ![](media/rigol-dm3068.jpg) |
 
 Notes:
 - "The rebadged Keithley 2100 was quite terrible" [[1](https://www.eevblog.com/forum/chat/bench-multimeter-(another)/msg244830/#msg244830)]
@@ -68,23 +68,23 @@ Notes:
 
 ### DC Volts info:
 
-| Make | Model | Best res. (range) | Hi-Z (value) |
-|---|---|---|---|
-| HP | 3456A | 1uV (1V) | 100mV, 1V, 10V |
-| HP | 3456A | 100nV (100mV) | 100mV, 1V, 10V |
-| HP | 3457A | 10nV (30mV) | 30mV, 300mV, 3V |
-| HP/Agilent | 34401A | 100nV (100mV) | 100mV, 1V, 10V (>10G) |
-| Keithley | 192 | 1uV (2V<sup>*</sup>) | 200mV, 2V, 20V (>1G) |
-| Keithley | 193 | 100nV (200mV) | 200mV, 2V |
-| Keithley | 196 | 100nV (300mV) | 300mV, 3V (>1G) |
-| Keithley | 2000 | 100nV (100mV) | 100mV, 1V, 10V (>10G) |
-| Keithley | 2015 | | |
+| Make | Model | Ref. | Best res. (range) | Hi-Z (value) |
+|---|---|---|---|---|
+| HP | 3456A | | 1uV (1V) | 100mV, 1V, 10V |
+| HP | 3456A | | 100nV (100mV) | 100mV, 1V, 10V |
+| HP | 3457A | LM399 | 10nV (30mV) | 30mV, 300mV, 3V |
+| HP/Agilent | 34401A | | 100nV (100mV) | 100mV, 1V, 10V (>10G) |
+| Keithley | 192 | | 1uV (2V<sup>*</sup>) | 200mV, 2V, 20V (>1G) |
+| Keithley | 193 | | 100nV (200mV) | 200mV, 2V |
+| Keithley | 196 | | 100nV (300mV) | 300mV, 3V (>1G) |
+| Keithley | 2000 | | 100nV (100mV) | 100mV, 1V, 10V (>10G) |
+| Keithley | 2015 | | | |
 | Fluke | 8502A | 1uV (1V) | 100mV, 1V, 10V |
 | Fluke | 8505A | 100nV (200mV) | 200mV, 2V, 20V |
-| Fluke | 8520A | | |
-| Datron | 1062 | | |
-| Prema | 6001 | | |
-| Solartron | 7150 |  | 200mV, 2V (>10G) |
+| Fluke | 8520A | SZA263 | | |
+| Datron | 1062 | | | |
+| Prema | 6001 | | | |
+| Solartron | 7150 | | | 200mV, 2V (>10G) |
 
 Note:
 - Keithley 192 has no 0.2V range in 6.5-digit mode (best 6.5-digit resolution is 1uV in 2V range).
