@@ -224,6 +224,7 @@ Notes:
 | Fluke | 8840A | LTFLU-1 [[1](https://youtu.be/X4_iRB2DIW8?t=12m36s)] | 1uV (200mV) |  200mV, 2V, 20V |
 | Fluke | 8842A | LTFLU-1 [[1](https://www.eevblog.com/forum/metrology/the-ltflu-(aka-sza263)-reference-zener-diode-circuit/msg610468/#msg610468)] | 100nV (20mV) | 20mV, 200mV, 2V, 20V |
 | Fluke | 8808A |  | 1uV (200mV) | 200mV, 2V |
+| Datron | 1061 | Zener diodes [[1](https://www.amplifier.cd/Test_Equipment/other/Datron1061/Datron_1061.html)] | | |
 
 
 ### Calibration info:
