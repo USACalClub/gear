@@ -197,13 +197,15 @@ Notes:
 | Fluke | 8800A | 2x, 20x, ... | | 1.99999 |
 | Fluke | 8810A | 2x, 20x, ... | | 1.99999 |
 | Fluke | 8520A | 1x, 10x, ... | | 1.99999 |
-| Fluke | 45 | 3x, 30x, ... (4.5-digit mode) / 1x, 10x, ... (5-digit mode) | | 3.0000 / 9.9999 |
+| Fluke | 45 | 3x, 30x, ... / 1x, 10x, ... | | 3.0000 / 9.9999 |
 | Fluke | 8840A |  | | |
 | Fluke | 8842A |  | | |
 | Datron | 1061 | 2x, 20x, ... | 199,999 | |
 | Datron | 1065 | 2x, 20x, ... | 199,999 | |
 
 Notes:
+- Fluke 45
+  - The Fluke 45 uses a 3x range scheme in 4.5-digit mode, and a 1x range scheme in 5-digit mode.
 - Fluke 8520A
   - DCV full-scale readings: 199.999mV, 1.99999V, 16.0100V, 130.100V, 1024.00V
 
@@ -217,6 +219,7 @@ Notes:
 | Fluke | 8800A | SZA263? | 1uV (200mV) | 200mV, 2V (>1G) |
 | Fluke | 8810A |  | 1uV (200mV) | 200mV, 2V (>1G) |
 | Fluke | 8520A | SZA263 [[1](https://www.eevblog.com/forum/reviews/fluke-8520a/msg81302/#msg81302)] | 1uV (100mV) | 100mV, 1V, 10V |
+| Fluke | 45 |  | 1uV (100mV) | n/a (10M on all ranges) |
 | Fluke | 8840A | LTFLU-1 [[1](https://youtu.be/X4_iRB2DIW8?t=12m36s)] | | |
 | Fluke | 8842A | LTFLU-1 [[1](https://www.eevblog.com/forum/metrology/the-ltflu-(aka-sza263)-reference-zener-diode-circuit/msg610468/#msg610468)] | | |
 
@@ -232,6 +235,8 @@ Notes:
 | Fluke | 8810A | Trimpots |
 | Fluke | 8520A | Trimpots |
 | Fluke | Fluke 45 | Front panel, Remote |
+| Fluke | 8840A |  |
+| Fluke | 8842A |  |
 
 Notes:
 - Fluke 45
@@ -248,6 +253,8 @@ Notes:
 | Fluke | 8810A | 100R, 1k, 10k, 100k, 1M, 10M | (arbitrary) |
 | Fluke | 8520A | 100R, 1k, 10k, 100k, 1M | (arbitrary) |
 | Fluke | 45 | 290R, 2.9k, 29k, 290k, 2.9M | (See table 4-9 in service manual) |
+| Fluke | 8840A | | |
+| Fluke | 8842A | | |
 
 Notes:
 - Fluke 45
