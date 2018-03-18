@@ -177,7 +177,7 @@ Notes:
 | Fluke | 45 | 1989? | GPIB (opt. O5K), RS-232 | ![](media/fluke-45.jpg) |
 | Fluke | 8840A | 1991? | GPIBG (opt. 05) | ![](media/fluke-8840a.jpg) |
 | Fluke | 8842A | 1991? | GPIBG (opt. 05) | ![](media/fluke-8842a.jpg) |
-| Fluke | 8808A | | | ![](media/fluke-8808a.jpg) |
+| Fluke | 8808A | 2007? | RS-232 | ![](media/fluke-8808a.jpg) |
 | Datron | 1061 | | | ![](media/datron-1061.jpg) |
 | Datron | 1065 | | | ![](media/datron-1065.jpg) |
 | Rigol | DM3058E | | | ![](media/rigol-dm3058e.jpg) |
@@ -200,7 +200,7 @@ Notes:
 | Fluke | 45 | 3x, 30x, ... / 1x, 10x, ... | | 3.0000 / 9.9999 |
 | Fluke | 8840A | 2x, 20x, ... | | 1.99999 |
 | Fluke | 8842A | 2x, 20x, ... | | 1.99999 |
-| Fluke | 8808A | | |  |
+| Fluke | 8808A | 2x, 20x, ... | | 1.99999 |
 | Datron | 1061 | 2x, 20x, ... | 199,999 | |
 | Datron | 1065 | 2x, 20x, ... | 199,999 | |
 
@@ -223,6 +223,7 @@ Notes:
 | Fluke | 45 |  | 1uV (100mV) | n/a (10M on all ranges) |
 | Fluke | 8840A | LTFLU-1 [[1](https://youtu.be/X4_iRB2DIW8?t=12m36s)] | 1uV (200mV) |  200mV, 2V, 20V |
 | Fluke | 8842A | LTFLU-1 [[1](https://www.eevblog.com/forum/metrology/the-ltflu-(aka-sza263)-reference-zener-diode-circuit/msg610468/#msg610468)] | 100nV (20mV) | 20mV, 200mV, 2V, 20V |
+| Fluke | 8808A |  | 1uV (200mV) | 200mV, 2V |
 
 
 ### Calibration info:
@@ -238,6 +239,7 @@ Notes:
 | Fluke | Fluke 45 | Front panel, Remote |
 | Fluke | 8840A | Front panel, Remote |
 | Fluke | 8842A | Front panel, Remote |
+| Fluke | 8808A | Front panel, Remote |
 
 Notes:
 - Fluke 45
@@ -256,10 +258,13 @@ Notes:
 | Fluke | 45 | 290R, 2.9k, 29k, 290k, 2.9M | (See table 4-9 in service manual) |
 | Fluke | 8840A | 100R, 1k, 10k, 100k, 1M, 10M | |
 | Fluke | 8842A | 10R, 100R, 1k, 10k, 100k, 1M, 10M | |
+| Fluke | 8808A | 1R, 10R, 50R, 100R, 150R, 500R, 1k, 1.5k, 5k, 10k, 15k, 50k, 100k, 150k, 500k, 1M, 1.5M, 5M, 10M, 15M, 20M, 50M, 100M | |
 
 Notes:
 - Fluke 8840A, 8842A
   - The manual recommends using calibration values between half and full-scale, so 1.9x values could also be used here.
+- Fluke 8808A
+  - What an obnoxious Ohms calibration procedure!
 
 Notes:
 - Fluke 45
