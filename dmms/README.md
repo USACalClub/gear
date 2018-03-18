@@ -335,6 +335,11 @@ Notes:
 | Make | Model | Ref. | Best res. (range) | Hi-Z (value) |
 |---|---|---|---|---|
 | Datron | 1071 | 1N829 Zener diodes [[1](https://www.eevblog.com/forum/metrology/datron-1071-repair/msg1014100/#msg1014100)] | | |
+| Datron | 1081 | 1N829 Zener diodes [[1](http://techobsessed.net/2015/11/new-to-me-datron-1081-autocal-standards-multimeter/)] | | |
+
+### Additional resources:
+- Datron 1081
+  - [techobsessed.net](http://techobsessed.net/2015/11/new-to-me-datron-1081-autocal-standards-multimeter/)
 
 
 ## Models with 8.5-digit resolution
