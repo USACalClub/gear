@@ -175,7 +175,7 @@ Notes:
 | Fluke | 8810A | 1978? | TTL output (opt. 002) | ![](media/fluke-8810a.jpg) |
 | Fluke | 8520A | 1979? | GPIB | ![](media/fluke-8520a.jpg) |
 | Fluke | 45 | 1989? | GPIB (opt. O5K), RS-232 | ![](media/fluke-45.jpg) |
-| Fluke | 8840A | | | ![](media/fluke-8840a.jpg) |
+| Fluke | 8840A | 1991? | GPIBG (opt. 05) | ![](media/fluke-8840a.jpg) |
 | Fluke | 8842A | | | ![](media/fluke-8842a.jpg) |
 | Fluke | 8808A | | | ![](media/fluke-8808a.jpg) |
 | Datron | 1061 | | | ![](media/datron-1061.jpg) |
@@ -198,7 +198,7 @@ Notes:
 | Fluke | 8810A | 2x, 20x, ... | | 1.99999 |
 | Fluke | 8520A | 1x, 10x, ... | | 1.99999 |
 | Fluke | 45 | 3x, 30x, ... / 1x, 10x, ... | | 3.0000 / 9.9999 |
-| Fluke | 8840A |  | | |
+| Fluke | 8840A | 2x, 20x, ... | | 1.99999 |
 | Fluke | 8842A |  | | |
 | Datron | 1061 | 2x, 20x, ... | 199,999 | |
 | Datron | 1065 | 2x, 20x, ... | 199,999 | |
@@ -220,7 +220,7 @@ Notes:
 | Fluke | 8810A |  | 1uV (200mV) | 200mV, 2V (>1G) |
 | Fluke | 8520A | SZA263 [[1](https://www.eevblog.com/forum/reviews/fluke-8520a/msg81302/#msg81302)] | 1uV (100mV) | 100mV, 1V, 10V |
 | Fluke | 45 |  | 1uV (100mV) | n/a (10M on all ranges) |
-| Fluke | 8840A | LTFLU-1 [[1](https://youtu.be/X4_iRB2DIW8?t=12m36s)] | | |
+| Fluke | 8840A | LTFLU-1 [[1](https://youtu.be/X4_iRB2DIW8?t=12m36s)] | 1uV (200mV) |  200mV, 2V, 20V |
 | Fluke | 8842A | LTFLU-1 [[1](https://www.eevblog.com/forum/metrology/the-ltflu-(aka-sza263)-reference-zener-diode-circuit/msg610468/#msg610468)] | | |
 
 
@@ -235,7 +235,7 @@ Notes:
 | Fluke | 8810A | Trimpots |
 | Fluke | 8520A | Trimpots |
 | Fluke | Fluke 45 | Front panel, Remote |
-| Fluke | 8840A |  |
+| Fluke | 8840A | Front panel, Remote |
 | Fluke | 8842A |  |
 
 Notes:
@@ -253,8 +253,12 @@ Notes:
 | Fluke | 8810A | 100R, 1k, 10k, 100k, 1M, 10M | (arbitrary) |
 | Fluke | 8520A | 100R, 1k, 10k, 100k, 1M | (arbitrary) |
 | Fluke | 45 | 290R, 2.9k, 29k, 290k, 2.9M | (See table 4-9 in service manual) |
-| Fluke | 8840A | | |
+| Fluke | 8840A | 100R, 1k, 10k, 100k, 1M, 10M | |
 | Fluke | 8842A | | |
+
+Notes:
+- Fluke 8840A
+  - The manual recommends using calibration values between half and full-scale, so 1.9x values could also be used here.
 
 Notes:
 - Fluke 45
