@@ -174,7 +174,7 @@ Notes:
 | Fluke | 8800A | 1974? | TTL output (opt. 02) | ![](media/fluke-8800a.jpg) |
 | Fluke | 8810A | 1978? | TTL output (opt. 002) | ![](media/fluke-8810a.jpg) |
 | Fluke | 8520A | 1979? | GPIB | ![](media/fluke-8520a.jpg) |
-| Fluke | 45 | | | ![](media/fluke-45.jpg) |
+| Fluke | 45 | 1989? | GPIB (opt. O5K), RS-232 | ![](media/fluke-45.jpg) |
 | Fluke | 8840A | | | ![](media/fluke-8840a.jpg) |
 | Fluke | 8842A | | | ![](media/fluke-8842a.jpg) |
 | Fluke | 8808A | | | ![](media/fluke-8808a.jpg) |
@@ -185,6 +185,7 @@ Notes:
 Notes:
 - It appears the Keithley 195A is a 195 with the addition of temperature measurement.
 - The Keithley 199 is a scanner.
+- The Fluke 45 can only do 99,999 counts (5 digits), so it isn't a "true" 5.5-digit meter.
 
 ### Range info:
 
@@ -196,6 +197,9 @@ Notes:
 | Fluke | 8800A | 2x, 20x, ... | | 1.99999 |
 | Fluke | 8810A | 2x, 20x, ... | | 1.99999 |
 | Fluke | 8520A | 1x, 10x, ... | | 1.99999 |
+| Fluke | 45 | 3x, 30x, ... (4.5-digit mode) / 1x, 10x, ... (5-digit mode) | | 3.0000 / 9.9999 |
+| Fluke | 8840A |  | | |
+| Fluke | 8842A |  | | |
 | Datron | 1061 | 2x, 20x, ... | 199,999 | |
 | Datron | 1065 | 2x, 20x, ... | 199,999 | |
 
@@ -227,6 +231,11 @@ Notes:
 | Fluke | 8800A | Trimpots |
 | Fluke | 8810A | Trimpots |
 | Fluke | 8520A | Trimpots |
+| Fluke | Fluke 45 | Front panel, Remote |
+
+Notes:
+- Fluke 45
+  - Specific values cannot be entered for the three calibration points (0V, 90mV, -90mV).  I.e., you must supply _exactly_ 90.000mV.
 
 #### Ohms calibration info:
 
@@ -238,7 +247,18 @@ Notes:
 | Fluke | 8800A | 100R, 1k, 10k, 100k, 1M, 10M | (arbitrary) |
 | Fluke | 8810A | 100R, 1k, 10k, 100k, 1M, 10M | (arbitrary) |
 | Fluke | 8520A | 100R, 1k, 10k, 100k, 1M | (arbitrary) |
+| Fluke | 45 | 290R, 2.9k, 29k, 290k, 2.9M | (See table 4-9 in service manual) |
 
+Notes:
+- Fluke 45
+  - The service manual also describes using 1.9x Ohm values as alternate calibration points, but calibrating further away from a full-scale value introduces additional error.
+  - Table 4-9 in the service manual lists the valid ranges for all calibration constants.  For Ohms, these are:
+    - Ohms range 1: 0.9990 to 1.0090
+    - Ohms range 2: 1.0000 to 1.0100
+    - Ohms range 3: 1.0040 to 1.0140
+    - Ohms range 4: 0.9990 to 1.0090
+    - Ohms range 5: 0.9990 to 1.0090
+    - Ohms range 6: 0.9990 to 1.0090
 
 ### Additional resources:
 
