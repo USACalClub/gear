@@ -128,7 +128,7 @@ Notes:
 | Keithley | 2015 | 1k, 10k, 100k, 1M | 0.9x to 1.1x |
 | Fluke | 8502A | 1.9k, 250K, 4M, 100M | (arbitrary) |
 | Fluke | 8505A | 1.9k, 250k, 4M, 19M, 100M | "any known value from 60% of range to full scale" |
-| Fluke | 8506A | 1.9k, 4M, 250k, 100M | |
+| Fluke | 8506A | 1.9k, 250k, 4M, 100M | |
 | Fluke | 8845A | 100R, 1k, 10k, 100k, 1M, 10M, 100M | |
 | Fluke | 8846A | 10R, 100R, 1k, 10k, 100k, 1M, 10M, 100M, 1G | |
 | Datron | 1061A | 10R, 100R, 1k, 10k, 100k, 1M, 10M | "20% to 200% of range" |
