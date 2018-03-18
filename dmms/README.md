@@ -166,8 +166,9 @@ Notes:
 
 | Make | Model | Introduced | Comms | Image |
 |---|---|---|---|---|
-| HP | 3468B | | | |
-| HP | 3478A | | | |
+| HP | 3468A | | HP-IL | ![](media/hp-3468a.jpg) |
+| HP | 3468B | | HP-IL | ![](media/hp-3468b.jpg) |
+| HP | 3478A | 1981? | GPIB | ![](media/hp-3478a.jpg) |
 | Keithley | 195 | 1982? | | ![](media/keithley-195.jpg) |
 | Keithley | 195A | 1984? | GPIB | ![](media/keithley-195a.jpg) |
 | Keithley | 199<sup>*</sup> | 1988? | GPIB | ![](media/keithley-199.jpg) |
@@ -183,6 +184,7 @@ Notes:
 | Rigol | DM3058E | | | ![](media/rigol-dm3058e.jpg) |
 
 Notes:
+- The HP 3468A comes in a "carrying case" (with a handle) and the HP 3468B comes in a "system case".
 - It appears the Keithley 195A is a 195 with the addition of temperature measurement.
 - The Keithley 199 is a scanner.
 - The Fluke 45 can only do 99,999 counts (5 digits), so it isn't a "true" 5.5-digit meter.
@@ -191,6 +193,8 @@ Notes:
 
 | Make | Model | Range scheme | A/D counts | Max value |
 |---|---|---|---|---|
+| HP | 3468A, 3468B | 3x, 30x, ... | | 3.01000 |
+| HP | 3478A | 3x, 30x, ... | | 3.03099 |
 | Keithley | 195 | 2x, 20x, ... | | 1.99999 |
 | Keithley | 195A | 2x, 20x, ... | | 1.99999 |
 | Keithley | 199 | 3x, 30x, ... | 302,999 | |
@@ -214,6 +218,8 @@ Notes:
 
 | Make | Model | Ref. | Best res. (range) | Hi-Z (value) |
 |---|---|---|---|---|
+| HP | 3468A, 3468B |  | 1uV (300mV) | 300mV, 3V (>10G) |
+| HP | 3478A |  | 100nV (30mV) | 30mV, 300mV, 3V (>10G) |
 | Keithley | 195 |  | 100nV (20mV) | 20mV, 200mV, 2V (>1G) |
 | Keithley | 195A |  | 100nV (20mV) | 20mV, 200mV, 2V (>1G) |
 | Keithley | 199 | 1N4579 [[1](https://www.ifixit.com/Teardown/Keithley+199+Scanner+Multimeter+Teardown/18814)] | 1uV (300mV) | 300mV, 3V (>1G) |
@@ -231,6 +237,8 @@ Notes:
 
 | Make | Model | Cal methods |
 |---|---|---|
+| HP | 3468A, 3468B | Front panel, Remote |
+| HP | 3478A | Front panel, Remote |
 | Keithley | 195 | Front panel, Remote |
 | Keithley | 195A | Front panel, Remote |
 | Keithley | 199 | Front panel, Remote |
@@ -250,6 +258,8 @@ Notes:
 
 | Make | Model | Standards needed | Valid cal. input range |
 |---|---|---|---|
+| HP | 3468A, 3468B | (100R, 1k, 10k, 100k, 1M, 10M) or (300R, 3k, 30k, 300k, 3M, 30M) | +/-1000 counts |
+| HP | 3478A | (10R, 100R, 1k, 10k, 100k, 1M, 10M) or (30R, 300R, 3k, 30k, 300k, 3M, 30M) | +/-7% |
 | Keithley | 195 | 19R, 190R, 1.9k, 19k, 190k, 1.9M, 10M | |
 | Keithley | 195A | 19R, 190R, 1.9k, 19k, 190k, 1.9M, 10M | |
 | Keithley | 199 | 190R, 1.9k, 19k, 190k, 1.9M, 19M, 100M | |
