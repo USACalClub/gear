@@ -53,9 +53,9 @@ Notes:
 | Fluke | 8506A | 2x, 20x, ... | | 2.000000 |
 | Fluke | 8845A | 1x, 10x, ... | | "20% overrange" |
 | Fluke | 8846A | 1x, 10x, ... | | "20% overrange" |
-| Datron | 1061A | | 1,999,999 | |
-| Datron | 1062 | | 1,999,999 | |
-| Datron | 1065A | | 1,999,999 | |
+| Datron | 1061A | 1x, 10x, ... | 1,999,999 | |
+| Datron | 1062 | 1x, 10x, ... | 1,999,999 | |
+| Datron | 1065A | 1x, 10x, ... | 1,999,999 | |
 
 Notes:
 - HP 3457A supports greater resolution via GPIB
@@ -80,8 +80,8 @@ Notes:
 | Fluke | 8506A | SZA263 [[1](https://doc.xdevs.com/doc/Fluke/8506A/r2adc/174747jo1f3fy75zc4j9vy.jpg)] | 100nV (200mV) | 200mV, 2V, 20V |
 | Fluke | 8845A | LM399? | 100nV (100mV) | 100mV, 1V, 10V (>10G) |
 | Fluke | 8846A | LM399 [[1](https://youtu.be/5dJyJD30NXQ?t=4m23s)] | 100nV (100mV) | 100mV, 1V, 10V (>10G) |
-| Datron | 1061A | | | | |
-| Datron | 1062 | | | | |
+| Datron | 1061A | Zener diodes (unconfirmed) | | | |
+| Datron | 1062 | Zener diodes (unconfirmed) | | | |
 | Datron | 1065A | | | | |
 
 
@@ -329,6 +329,12 @@ Notes:
 | Datron | 1072 | 2x, 20x, ... | 19,999,999 | |
 | Datron | 1081 | 2x, 20x, ... | 19,999,999 | |
 | Datron | 1082 | 2x, 20x, ... | 19,999,999 | |
+
+### DC Volts info:
+
+| Make | Model | Ref. | Best res. (range) | Hi-Z (value) |
+|---|---|---|---|---|
+| Datron | 1071 | 1N829 Zener diodes [[1](https://www.eevblog.com/forum/metrology/datron-1071-repair/msg1014100/#msg1014100)] | | |
 
 
 ## Models with 8.5-digit resolution
