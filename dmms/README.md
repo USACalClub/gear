@@ -166,8 +166,8 @@ Notes:
 
 | Make | Model | Introduced | Comms | Image |
 |---|---|---|---|---|
-| HP | 3468A | | HP-IL | ![](media/hp-3468a.jpg) |
-| HP | 3468B | | HP-IL | ![](media/hp-3468b.jpg) |
+| HP | 3468A | 1981? | HP-IL | ![](media/hp-3468a.jpg) |
+| HP | 3468B | 1981? | HP-IL | ![](media/hp-3468b.jpg) |
 | HP | 3478A | 1981? | GPIB | ![](media/hp-3478a.jpg) |
 | Keithley | 195 | 1982? | | ![](media/keithley-195.jpg) |
 | Keithley | 195A | 1984? | GPIB | ![](media/keithley-195a.jpg) |
