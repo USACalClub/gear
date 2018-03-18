@@ -293,6 +293,8 @@ Notes:
   - [emperor](http://emperoroftestequipment.weebly.com/)
   - [Re-engineered digital board](https://www.eevblog.com/forum/repair/keithley-199-digital-board-replacement/)
   - [Replacing 1N4579 ref. zener with LM399](https://www.eevblog.com/forum/chat/bench-multimeter-(another)/msg265846/#msg265846)
+- Datron 1061
+  - [amplifier.cd](https://www.amplifier.cd/Test_Equipment/other/Datron1061/Datron_1061.html)
 
 
 ## Models with 7.5-digit resolution
