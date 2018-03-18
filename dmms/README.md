@@ -82,7 +82,7 @@ Notes:
 | Fluke | 8846A | LM399 [[1](https://youtu.be/5dJyJD30NXQ?t=4m23s)] | 100nV (100mV) | 100mV, 1V, 10V (>10G) |
 | Datron | 1061A | Zener diodes (unconfirmed) | | | |
 | Datron | 1062 | Zener diodes (unconfirmed) | | | |
-| Datron | 1065A | | | | |
+| Datron | 1065A | Zener diodes (unconfirmed) | | | |
 
 
 Note:
