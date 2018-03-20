@@ -66,7 +66,7 @@ Notes:
 
 | Make | Model | Ref. | Best res. (range) | Hi-Z (value) |
 |---|---|---|---|---|
-| HP | 3456A | | 1uV (1V) | 100mV, 1V, 10V |
+| HP | 3455A | | 1uV (1V) | 100mV, 1V, 10V |
 | HP | 3456A | | 100nV (100mV) | 100mV, 1V, 10V |
 | HP | 3457A | LM399 | 10nV (30mV) | 30mV, 300mV, 3V |
 | HP/Agilent | 34401A | LM399 | 100nV (100mV) | 100mV, 1V, 10V (>10G) |
