@@ -191,6 +191,7 @@ Notes:
 - The Keithley 199 is a scanner.
 - The Fluke 45 can only do 99,999 counts (5 digits), so it isn't a "true" 5.5-digit meter.
 - lmester's HP 3478A GPIB control program (windows) [[1](http://www.eevblog.com/forum/testgear/free-hp3478a-multimeter-control-program/)] [[2](https://mesterhome.com/gpibsw/)]
+- mdijkens' Fluke 45 control program (windows) [[1](http://www.dijkens.com/mdFluke/)]
 
 ### Range info:
 
