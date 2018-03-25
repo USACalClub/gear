@@ -13,6 +13,8 @@ Information about digital multimeters, especially used models of interest to vol
 | HP | 3456A | 1980? | GPIB | ![](media/hp-3456a.jpg) |
 | HP | 3457A | 1985? | GPIB | ![](media/hp-3457a.jpg) |
 | HP / Agilent / Keysight | 34401A | 1991? | GPIB, RS-232 | ![](media/hp-34401a.jpg) |
+| HP / Agilent / Keysight | 34410A |  |  | ![](media/hp-34410a.jpg) |
+| HP / Agilent / Keysight | 34465A |  |  | ![](media/hp-34465a.jpg) |
 | Keithley | 192 | 1982? | ? | ![](media/keithley-192.jpg) |
 | Keithley | 193 | 1985? | GPIB | ![](media/keithley-193.jpg) |
 | Keithley | 196 | 1986? | GPIB | ![](media/keithley-196.jpg) |
@@ -315,8 +317,11 @@ Notes:
 
 | Make | Model | Introduced | Comms | Image |
 |---|---|---|---|---|
+| HP / Agilent / Keysight | 34420A | | | ![](media/hp-34420a.jpg) |
+| HP / Agilent / Keysight | 34470A | | | ![](media/hp-34470a.jpg) |
 | Keithley | 2001 | | | ![](media/keithley-2001.jpg) |
 | Keithley | 2010 | | | ![](media/keithley-2010.jpg) |
+| Keithley | DMM7510 | | | ![](media/keithley-dmm7510.jpg) |
 | Datron | 1071 | | | ![](media/datron-1071.jpg) |
 | Datron | 1072 | | | ![](media/datron-1072.jpg) |
 | Datron | 1081 | | | ![](media/datron-1081.jpg) |
@@ -349,10 +354,16 @@ Notes:
 
 | Make | Model | Introduced | Comms | Image |
 |---|---|---|---|---|
-| HP/Agilent/Keysight | 3458a | | | ![](media/hp-3458a.jpg) |
+| HP / Agilent / Keysight | 3458a | | | ![](media/hp-3458a.jpg) |
 | Keithley | 2002 | | | ![](media/keithley-2002.jpg) |
 | Datron | 1271 | | | ![](media/datron-1271.jpg) |
 | Datron | 1281 | | | ![](media/datron-1281.jpg) |
+
+
+| Make | Model | Ref. | Best res. (range) | Hi-Z (value) |
+|---|---|---|---|---|
+| HP / Agilent / Keysight | 3458a | LTZ1000 | | |
+| Keithley | 2002 | LTZ1000 | | |
 
 
 ## Obscure models
